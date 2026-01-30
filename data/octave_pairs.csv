@@ -1,0 +1,8 @@
+Pair_Number,Small_Structure,Large_Structure,Small_log10_L,Large_log10_L,Ratio_log,Deviation,Quality
+1,Proton,Sun,-15.08,8.84,23.92,0.08,Excellent
+2,Atomic Orbital,Solar System,-10.28,12.65,22.93,1.07,Fair
+3,Ribosome,Open Cluster,-7.96,16.67,24.63,0.63,Very Good
+4,Bacterium,Local Bubble,-6.00,18.665,24.665,0.665,Very Good
+5,C. elegans,Milky Way,-3.30,20.70,24.00,0.00,Perfect
+6,Human,Virgo Supercluster,-0.046,23.84,23.886,0.114,Excellent
+7,City,Observable Universe,3.00,26.64,23.64,0.36,Very Good
