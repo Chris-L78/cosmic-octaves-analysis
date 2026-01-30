@@ -1,0 +1,16 @@
+Structure,L_meters,log10_L,Measurement_Type,Source,Sensitivity_Notes
+Proton,8.4e-16,-15.08,RMS charge radius,CODATA 2018,±2%
+Atomic Orbital (H),5.29e-11,-10.28,Bohr radius,CODATA 2018,90% boundary ~3× larger
+Ribosome (70S),1.1e-8,-7.96,Half diameter,BioNumbers,±20%
+Bacterium (E. coli),1.0e-6,-6.00,Half cell length,BioNumbers,±30% growth-phase dependent
+C. elegans,5.0e-4,-3.30,Half body length,NCBI (≈1 mm adult),±15%
+Human,9.0e-1,-0.046,Half body height,Representative 1.8 m,±10%
+City,1.0e3,3.00,Coordination radius,West (2017),Factor ~5 (1–5 km)
+Earth,6.37e6,6.80,Mean radius,IAU 2015,±0.01%
+Sun,6.96e8,8.84,Photosphere radius,IAU 2015,±0.01%
+Solar System,4.5e12,12.65,Neptune orbit (bound extent),IAU 2015,Heliopause ~2×
+Open Cluster,4.7e16,16.67,Half-mass/characteristic cluster radius,Literature typical,Factor ~4 across clusters
+Local Bubble,4.629e18,18.665,Median boundary distance,Pelgrims+ (2020),80–360 pc (irregular)
+Milky Way,5.0e20,20.70,Half stellar disk scale,Bland-Hawthorn & Gerhard (2016),±10%
+Virgo Supercluster,6.9e23,23.84,Half density-extent proxy,Standard value,Laniakea alternative noted
+Observable Universe,4.4e26,26.64,Particle horizon,Planck 2018,±2%
