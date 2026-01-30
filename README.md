@@ -196,7 +196,7 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
-We thank the scientific community for the peer-reviewed measurements used here. Additional thanks to Claude (Anthropic), Grok (xAI), and ChatGPT (OpenAI) for methodology critique and code-review assistance.
+We thank the scientific community for the peer-reviewed measurements used here. Additional thanks to Claude (Anthropic), Grok (xAI), and ChatGPT (OpenAI) for methodology critique and code-review assistance. Special thanks to the @OurFractalUniverse audience for their thoughtful and engaging comments. 
 
 ---
 
