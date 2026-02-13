@@ -1,0 +1,7 @@
+Species,Common name,Mass_kg,Max_longevity_yr,Data_quality,Specimen_origin,Source_ref,HAGRID
+Mus musculus,House mouse,0.0205,4.0,high,captivity,506,03063
+Rattus norvegicus,Norway rat,0.3,3.8,acceptable,captivity,857,03083
+Canis familiaris,Domestic dog,40.0,27.0,acceptable,captivity,1330,02073
+Homo sapiens,Human,62.035,122.5,high,captivity,29,02789
+Loxodonta africana,African bush elephant,4800.0,65.0,acceptable,captivity,671,02839
+Balaena mysticetus,Bowhead whale,100000.0,211.0,acceptable,wild,21,02275

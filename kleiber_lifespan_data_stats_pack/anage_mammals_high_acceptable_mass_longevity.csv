@@ -1,0 +1,998 @@
+HAGRID,Genus,Species,Common name,Order,Family,Adult weight (g),Maximum longevity (yrs),Specimen origin,Data quality,Source
+01888,Echinops,telfairi,Lesser hedgehog tenrec,Afrosoricida,Tenrecidae,180,19,captivity,acceptable,671
+01891,Microgale,dobsoni,Dobson's shrew tenrec,Afrosoricida,Tenrecidae,37.8,5.6,captivity,acceptable,434
+01892,Microgale,talazaci,Talazac's shrew tenrec,Afrosoricida,Tenrecidae,50,5.8,captivity,acceptable,434
+01893,Setifer,setosus,Greater hedgehog tenrec,Afrosoricida,Tenrecidae,225,14.1,captivity,acceptable,671
+01894,Tenrec,ecaudatus,"Tailess tenrec, or Tenrec",Afrosoricida,Tenrecidae,900,8.7,captivity,acceptable,671
+01895,Antilocapra,americana,Pronghorn,Artiodactyla,Antilocapridae,46100,17,captivity,acceptable,1306
+01896,Addax,nasomaculatus,Addax,Artiodactyla,Bovidae,92500,28,captivity,high,671
+01897,Aepyceros,melampus,Impala,Artiodactyla,Bovidae,52500,25.6,captivity,high,671
+01898,Alcelaphus,buselaphus,Hartebeest,Artiodactyla,Bovidae,159000,22.5,captivity,acceptable,671
+01900,Ammotragus,lervia,Aoudad,Artiodactyla,Bovidae,92500,21.7,captivity,acceptable,671
+01901,Antidorcas,marsupialis,Springbok,Artiodactyla,Bovidae,39000,19.8,captivity,high,671
+01902,Antilope,cervicapra,Blackbuck,Artiodactyla,Bovidae,37500,23.9,captivity,high,671
+01904,Bison,bison,American bison,Artiodactyla,Bovidae,630000,33.5,captivity,high,671
+01905,Bison,bonasus,European bison,Artiodactyla,Bovidae,610000,26.4,captivity,acceptable,671
+01906,Bos,frontalis,Gaur,Artiodactyla,Bovidae,825000,26.2,captivity,acceptable,671
+01907,Bos,grunniens,Yak,Artiodactyla,Bovidae,667000,26.3,captivity,high,671
+01908,Bos,javanicus,Banteng,Artiodactyla,Bovidae,700000,27.1,captivity,acceptable,671
+01911,Boselaphus,tragocamelus,Nilgai,Artiodactyla,Bovidae,180000,21.7,captivity,high,671
+01912,Bubalus,bubalis,Water buffalo,Artiodactyla,Bovidae,725000,34.9,captivity,acceptable,671
+01913,Bubalus,depressicornis,Anoa,Artiodactyla,Bovidae,155000,36.1,captivity,acceptable,671
+01915,Bubalus,quarlesi,Mountain anoa,Artiodactyla,Bovidae,150000,29.2,captivity,acceptable,671
+01916,Budorcas,taxicolor,Takin,Artiodactyla,Bovidae,180000,21.9,captivity,acceptable,671
+01917,Capra,caucasica,West Caucasian tur,Artiodactyla,Bovidae,70000,19.3,captivity,acceptable,671
+01918,Capra,cylindricornis,East Caucasian tur,Artiodactyla,Bovidae,50000,20.2,captivity,acceptable,671
+01919,Capra,falconeri,Markhor,Artiodactyla,Bovidae,41000,19.1,captivity,high,671
+01920,Capra,hircus,Domestic goat,Artiodactyla,Bovidae,61000,20.8,captivity,high,671
+01921,Capra,ibex,Ibex,Artiodactyla,Bovidae,82500,21,captivity,acceptable,1306
+01922,Capra,nubiana,Nubian ibex,Artiodactyla,Bovidae,46250,22.4,captivity,acceptable,"John Gramieri, pers. comm."
+01924,Capra,sibirica,Siberian ibex,Artiodactyla,Bovidae,130000,22.3,captivity,acceptable,671
+01925,Capricornis,crispus,Japanese serow,Artiodactyla,Bovidae,80000,24,captivity,acceptable,671
+01926,Capricornis,sumatraensis,Serow,Artiodactyla,Bovidae,95000,18.5,captivity,acceptable,671
+01927,Cephalophus,dorsalis,Bay duiker,Artiodactyla,Bovidae,11600,17.5,captivity,acceptable,671
+01928,Cephalophus,jentinki,Jentink's duiker,Artiodactyla,Bovidae,70000.3,21,captivity,acceptable,671
+01929,Cephalophus,natalensis,Natal duiker,Artiodactyla,Bovidae,10000,15.2,captivity,acceptable,671
+01930,Cephalophus,niger,Black duiker,Artiodactyla,Bovidae,18100,14.8,captivity,acceptable,671
+01931,Cephalophus,nigrifrons,Black-fronted duiker,Artiodactyla,Bovidae,13900,17.9,captivity,acceptable,671
+01932,Cephalophus,rufilatus,Red-flanked duiker,Artiodactyla,Bovidae,13000,15.2,captivity,acceptable,671
+01933,Cephalophus,silvicultor,Yellow-backed duiker,Artiodactyla,Bovidae,62000,22.5,captivity,acceptable,671
+01934,Cephalophus,weynsi,Weyns's duiker,Artiodactyla,Bovidae,10000,15.2,captivity,acceptable,671
+01936,Connochaetes,gnou,Black wildebeest,Artiodactyla,Bovidae,132250,21.8,captivity,acceptable,671
+01937,Connochaetes,taurinus,Blue wildebeest,Artiodactyla,Bovidae,164500,24.3,captivity,high,671
+01938,Damaliscus,lunatus,Topi,Artiodactyla,Bovidae,110000,35,captivity,acceptable,1306
+01939,Damaliscus,pygargus,"Bontebok, or Sassaby, or Blesbok",Artiodactyla,Bovidae,84500,23,captivity,high,671
+01940,Eudorcas,rufifrons,Red-fronted gazelle,Artiodactyla,Bovidae,15011,14.5,captivity,acceptable,671
+01941,Eudorcas,thomsonii,Thomson's gazelle,Artiodactyla,Bovidae,25000,20,captivity,acceptable,671
+01943,Gazella,cuvieri,Cuvier's gazelle,Artiodactyla,Bovidae,17500,17.9,captivity,acceptable,671
+01944,Gazella,dorcas,Dorcas gazelle,Artiodactyla,Bovidae,14500,23.7,captivity,high,671
+01945,Gazella,gazella,Mountain gazelle,Artiodactyla,Bovidae,23250,18.3,captivity,high,671
+01946,Gazella,leptoceros,Rhim gazelle,Artiodactyla,Bovidae,48500,14.6,captivity,acceptable,671
+01947,Gazella,saudiya,Saudi gazelle,Artiodactyla,Bovidae,32185.7,21,captivity,acceptable,1306
+01949,Gazella,subgutturosa,Goitered gazelle,Artiodactyla,Bovidae,48500,16.3,captivity,high,671
+01950,Hemitragus,hylocrius,Nilgiri tahr,Artiodactyla,Bovidae,75000,17.3,captivity,acceptable,671
+01952,Hemitragus,jemlahicus,Himalayan tahr,Artiodactyla,Bovidae,35200,24,captivity,acceptable,1306
+01953,Hippotragus,equinus,Roan antelope,Artiodactyla,Bovidae,225000,25.9,captivity,acceptable,671
+01954,Hippotragus,niger,Sable antelope,Artiodactyla,Bovidae,225000,22.2,captivity,high,671
+01955,Kobus,ellipsiprymnus,Waterbuck,Artiodactyla,Bovidae,175333,30,captivity,high,671
+01956,Kobus,kob,Kob,Artiodactyla,Bovidae,105000,21.9,captivity,acceptable,671
+01957,Kobus,leche,Lechwe,Artiodactyla,Bovidae,94800,27,captivity,acceptable,1306
+01958,Kobus,megaceros,Nile lechwe,Artiodactyla,Bovidae,90000,21.1,captivity,high,671
+01959,Litocranius,walleri,Gerenuk,Artiodactyla,Bovidae,43500,17.3,captivity,acceptable,671
+01960,Madoqua,guentheri,Gunther's dik-dik,Artiodactyla,Bovidae,4550,17.5,captivity,acceptable,671
+01961,Madoqua,kirkii,Kirk's dik-dik,Artiodactyla,Bovidae,5000,17.3,captivity,acceptable,671
+01962,Naemorhedus,baileyi,Red goral,Artiodactyla,Bovidae,28863,19,captivity,acceptable,671
+01963,Naemorhedus,caudatus,Chinese goral,Artiodactyla,Bovidae,27000,20.3,captivity,acceptable,671
+01964,Naemorhedus,goral,Goral,Artiodactyla,Bovidae,31750,17.6,captivity,acceptable,671
+01965,Nanger,dama,Dama gazelle,Artiodactyla,Bovidae,73000,19.3,captivity,acceptable,671
+01966,Nanger,granti,Grant's gazelle,Artiodactyla,Bovidae,67000,23,captivity,acceptable,1306
+01967,Nanger,soemmerringii,Soemmerring's gazelle,Artiodactyla,Bovidae,48500,15.5,captivity,acceptable,671
+01968,Neotragus,moschatus,Suni,Artiodactyla,Bovidae,6500,13.5,captivity,acceptable,671
+01969,Neotragus,pygmaeus,Royal antelope,Artiodactyla,Bovidae,2250,11.1,captivity,acceptable,671
+01970,Oreamnos,americanus,Mountain goat,Artiodactyla,Bovidae,90000,20.8,captivity,acceptable,671
+01971,Oreotragus,oreotragus,Klipspringer,Artiodactyla,Bovidae,12000,25.9,captivity,acceptable,671
+01972,Oryx,dammah,Scimitar-horned oryx,Artiodactyla,Bovidae,177500,27.5,captivity,high,671
+01973,Oryx,gazella,Gemsbok,Artiodactyla,Bovidae,170000,23.8,captivity,high,671
+01974,Oryx,leucoryx,Arabian oryx,Artiodactyla,Bovidae,121350,20.8,captivity,high,671
+01975,Ourebia,ourebi,Oribi,Artiodactyla,Bovidae,17000,15.9,captivity,acceptable,671
+01976,Ovibos,moschatus,Muskox,Artiodactyla,Bovidae,315000,27.4,captivity,acceptable,671
+01977,Ovis,ammon,Argali,Artiodactyla,Bovidae,160000,16.8,captivity,acceptable,671
+01978,Ovis,aries,"Domestic sheep, or Mouflon",Artiodactyla,Bovidae,80000,22.8,captivity,high,671
+01979,Ovis,canadensis,Bighorn sheep,Artiodactyla,Bovidae,70275,20.6,captivity,acceptable,671
+01980,Ovis,dalli,Dall's sheep,Artiodactyla,Bovidae,73100,19.6,captivity,acceptable,671
+01982,Philantomba,maxwellii,Maxwell's duiker,Artiodactyla,Bovidae,7000,18.3,captivity,acceptable,671
+01983,Philantomba,monticola,Blue duiker,Artiodactyla,Bovidae,6250,15.9,captivity,acceptable,671
+01984,Procapra,gutturosa,Mongolian gazelle,Artiodactyla,Bovidae,30000,12,captivity,acceptable,671
+01985,Pseudois,nayaur,Bharal,Artiodactyla,Bovidae,55000,20.9,captivity,acceptable,671
+01986,Raphicerus,campestris,Steenbok,Artiodactyla,Bovidae,13000,9.3,captivity,acceptable,671
+01988,Redunca,arundinum,Southern reedbuck,Artiodactyla,Bovidae,58000,16.8,captivity,acceptable,671
+01989,Redunca,fulvorufula,Mountain reedbuck,Artiodactyla,Bovidae,30000,15,captivity,acceptable,671
+01992,Rupicapra,rupicapra,Chamois,Artiodactyla,Bovidae,37500,17.6,captivity,acceptable,671
+01994,Sylvicapra,grimmia,Bush duiker,Artiodactyla,Bovidae,18500,15.4,captivity,acceptable,671
+01995,Syncerus,caffer,African buffalo,Artiodactyla,Bovidae,700000,32.8,captivity,acceptable,"Thomas Brockmann, pers. comm."
+01996,Taurotragus,derbianus,Giant eland,Artiodactyla,Bovidae,680000,20.3,captivity,acceptable,671
+01997,Taurotragus,oryx,Eland,Artiodactyla,Bovidae,500000,26.1,captivity,high,671
+01998,Tetracerus,quadricornis,Four-horned antelope,Artiodactyla,Bovidae,19000,17.4,captivity,acceptable,671
+01999,Tragelaphus,angasii,Nyala,Artiodactyla,Bovidae,120000,23,captivity,acceptable,1306
+02000,Tragelaphus,eurycerus,Bongo,Artiodactyla,Bovidae,307500,22,captivity,acceptable,1306
+02001,Tragelaphus,imberbis,Lesser kudu,Artiodactyla,Bovidae,82500,19.8,captivity,acceptable,671
+02002,Tragelaphus,scriptus,Bushbuck,Artiodactyla,Bovidae,60000,15.3,captivity,acceptable,671
+02003,Tragelaphus,spekii,Sitatunga,Artiodactyla,Bovidae,87500,22.6,captivity,high,671
+02004,Tragelaphus,strepsiceros,Greater kudu,Artiodactyla,Bovidae,217500,23.5,captivity,high,671
+02005,Camelus,bactrianus,Bactrian camel,Artiodactyla,Camelidae,475000,35.4,captivity,high,671
+02006,Camelus,dromedarius,Dromedary,Artiodactyla,Camelidae,434000,28.4,captivity,acceptable,671
+02007,Lama,glama,Llama,Artiodactyla,Camelidae,140000,28.9,captivity,high,671
+02008,Lama,guanicoe,Guanaco,Artiodactyla,Camelidae,127500,33.7,captivity,high,671
+02009,Vicugna,pacos,Alpaca,Artiodactyla,Camelidae,62000,25.8,captivity,high,671
+02010,Vicugna,vicugna,Vicugna,Artiodactyla,Camelidae,50000,31.6,captivity,acceptable,671
+02013,Axis,axis,Chital,Artiodactyla,Cervidae,36000,20.8,captivity,high,671
+02014,Axis,calamianensis,Calamian deer,Artiodactyla,Cervidae,40500,17.2,captivity,acceptable,671
+02015,Axis,kuhlii,Bawean deer,Artiodactyla,Cervidae,55000,17.8,captivity,acceptable,671
+02016,Axis,porcinus,Hog deer,Artiodactyla,Cervidae,43000,22.9,captivity,acceptable,671
+02018,Capreolus,capreolus,Western roe deer,Artiodactyla,Cervidae,21666.7,17.5,captivity,acceptable,671
+02020,Cervus,elaphus,Red deer,Artiodactyla,Cervidae,200000,31.5,captivity,high,671
+02021,Cervus,nippon,Sika deer,Artiodactyla,Cervidae,42000,26.3,captivity,high,671
+02022,Dama,dama,Fallow deer,Artiodactyla,Cervidae,70000,27,captivity,acceptable,1306
+02023,Elaphodus,cephalophus,Tufted deer,Artiodactyla,Cervidae,33500,22.7,captivity,acceptable,671
+02024,Elaphurus,davidianus,Pere David's deer,Artiodactyla,Cervidae,186500,27.5,captivity,high,671
+02027,Hydropotes,inermis,Chinese water deer,Artiodactyla,Cervidae,11500,13.9,captivity,acceptable,671
+02028,Mazama,americana,Red brocket,Artiodactyla,Cervidae,33000,17.1,captivity,acceptable,671
+02029,Mazama,gouazoubira,Gray brocket,Artiodactyla,Cervidae,17000,14.8,captivity,acceptable,671
+02032,Muntiacus,muntjak,Indian muntjac,Artiodactyla,Cervidae,21000,18.8,captivity,acceptable,671
+02033,Muntiacus,reevesi,Reeves's muntjac,Artiodactyla,Cervidae,18000,23.2,captivity,high,671
+02034,Odocoileus,hemionus,Mule deer,Artiodactyla,Cervidae,57000,22,captivity,acceptable,671
+02035,Odocoileus,virginianus,White-tailed deer,Artiodactyla,Cervidae,87000,23,captivity,high,956
+02036,Ozotoceros,bezoarticus,Pampas deer,Artiodactyla,Cervidae,32500,21.9,captivity,acceptable,671
+02037,Przewalskium,albirostre,Thorold's deer,Artiodactyla,Cervidae,135000,21.3,captivity,acceptable,671
+02038,Pudu,puda,Southern pudu,Artiodactyla,Cervidae,10000,18.3,captivity,acceptable,956
+02039,Rangifer,tarandus,"Caribou, or Reindeer",Artiodactyla,Cervidae,101250,21.8,captivity,high,956
+02040,Rucervus,duvaucelii,Barasingha,Artiodactyla,Cervidae,170000,24.5,captivity,high,671
+02041,Rucervus,eldii,Eld's deer,Artiodactyla,Cervidae,122500,20.5,captivity,high,671
+02042,Rusa,alfredi,Visayan spotted deer,Artiodactyla,Cervidae,46475,18.5,captivity,acceptable,671
+02044,Rusa,timorensis,Timor deer,Artiodactyla,Cervidae,63000,21.1,captivity,acceptable,671
+02045,Rusa,unicolor,Sambar,Artiodactyla,Cervidae,185000,26.4,captivity,acceptable,671
+02046,Giraffa,camelopardalis,Giraffe,Artiodactyla,Giraffidae,800000,39.5,captivity,high,671
+02047,Okapia,johnstoni,Okapi,Artiodactyla,Giraffidae,225000,33.5,captivity,acceptable,671
+02048,Hexaprotodon,liberiensis,Pygmy hippopotamus,Artiodactyla,Hippopotamidae,215000,42.3,captivity,acceptable,671
+02049,Hippopotamus,amphibius,Hippopotamus,Artiodactyla,Hippopotamidae,3750000,61.2,captivity,acceptable,671
+02053,Babyrousa,babyrussa,Babirusa,Artiodactyla,Suidae,71500,22.9,captivity,acceptable,671
+02055,Phacochoerus,africanus,Wart hog,Artiodactyla,Suidae,100000,30,captivity,acceptable,1306
+02057,Potamochoerus,porcus,Red river hog,Artiodactyla,Suidae,88000,22,captivity,high,671
+02058,Sus,barbatus,Bearded pig,Artiodactyla,Suidae,102750,16.2,captivity,acceptable,671
+02059,Sus,salvanius,Pygmy hog,Artiodactyla,Suidae,8000,14,captivity,acceptable,671
+02060,Sus,scrofa,Wild boar,Artiodactyla,Suidae,130000,27,captivity,high,671
+02061,Sus,verrucosus,Javan pig,Artiodactyla,Suidae,76000,17,captivity,acceptable,671
+02063,Pecari,tajacu,Collared peccary,Artiodactyla,Tayassuidae,20200,31.5,captivity,high,671
+02064,Tayassu,pecari,White-lipped peccary,Artiodactyla,Tayassuidae,22000,28.5,captivity,acceptable,671
+02066,Moschiola,meminna,Indian spotted chevrotain,Artiodactyla,Tragulidae,2450,14.5,captivity,acceptable,671
+02067,Tragulus,javanicus,Lesser mouse-deer,Artiodactyla,Tragulidae,2850,14,captivity,acceptable,671
+02068,Tragulus,napu,Greater mouse-deer,Artiodactyla,Tragulidae,6500,16.7,captivity,acceptable,671
+02069,Ailurus,fulgens,Red panda,Carnivora,Ailuridae,4325,19,captivity,high,671
+02070,Atelocynus,microtis,Short-eared dog,Carnivora,Canidae,9500,11.9,captivity,acceptable,671
+02071,Canis,adustus,Side-striped jackal,Carnivora,Canidae,10250,13.7,captivity,acceptable,671
+02072,Canis,aureus,Golden jackal,Carnivora,Canidae,11000,18.8,captivity,acceptable,671
+02073,Canis,familiaris,Domestic dog,Carnivora,Canidae,40000,27,captivity,acceptable,1330
+02074,Canis,latrans,Coyote,Carnivora,Canidae,13250,21.8,captivity,acceptable,671
+02075,Canis,lupus,Gray wolf,Carnivora,Canidae,26625,20.6,captivity,high,671
+02076,Canis,mesomelas,Black-backed jackal,Carnivora,Canidae,10250,16.7,captivity,acceptable,671
+02077,Cerdocyon,thous,Crab-eating fox,Carnivora,Canidae,6500,12.7,captivity,acceptable,671
+02078,Chrysocyon,brachyurus,Maned wolf,Carnivora,Canidae,21500,16.8,captivity,acceptable,671
+02079,Cuon,alpinus,Dhole,Carnivora,Canidae,15750,16.1,captivity,acceptable,671
+02080,Lycalopex,culpaeus,Culpeo,Carnivora,Canidae,13000,13.1,captivity,acceptable,671
+02081,Lycalopex,griseus,Argentinian gray fox,Carnivora,Canidae,3990,10.9,captivity,acceptable,671
+02082,Lycalopex,gymnocercus,Pampas fox,Carnivora,Canidae,8500,13.7,captivity,acceptable,671
+02083,Lycalopex,sechurae,Sechuran fox,Carnivora,Canidae,4000,9.9,captivity,acceptable,671
+02084,Lycalopex,vetulus,Hoary fox,Carnivora,Canidae,5350,12.6,captivity,acceptable,671
+02085,Lycaon,pictus,African wild dog,Carnivora,Canidae,26500,17,captivity,high,671
+02086,Nyctereutes,procyonoides,Raccoon dog,Carnivora,Canidae,6500,16.6,captivity,acceptable,671
+02087,Otocyon,megalotis,Bat-eared fox,Carnivora,Canidae,4150,17,captivity,acceptable,671
+02088,Speothos,venaticus,Bush dog,Carnivora,Canidae,6000,14.1,captivity,acceptable,671
+02089,Urocyon,cinereoargenteus,Gray fox,Carnivora,Canidae,4750,16.2,captivity,acceptable,671
+02094,Vulpes,corsac,Corsac fox,Carnivora,Canidae,2700,13,captivity,acceptable,671
+02095,Vulpes,lagopus,Arctic fox,Carnivora,Canidae,5200,16.3,captivity,acceptable,671
+02096,Vulpes,macrotis,Kit fox,Carnivora,Canidae,2500,15.8,captivity,acceptable,671
+02097,Vulpes,pallida,Pale fox,Carnivora,Canidae,2800,16,captivity,acceptable,671
+02098,Vulpes,rueppellii,Ruppell's sand fox,Carnivora,Canidae,3200,14.3,captivity,acceptable,671
+02099,Vulpes,velox,Swift fox,Carnivora,Canidae,2400,15.9,captivity,acceptable,671
+02100,Vulpes,vulpes,Red fox,Carnivora,Canidae,4131.7,21.3,captivity,acceptable,671
+02101,Vulpes,zerda,Fennec,Carnivora,Canidae,1250,16.3,captivity,acceptable,671
+02102,Cryptoprocta,ferox,Fossa,Carnivora,Eupleridae,9500,23.1,captivity,acceptable,671
+02103,Fossa,fossana,Malagasy civet,Carnivora,Eupleridae,1540,21.4,captivity,acceptable,671
+02104,Galidia,elegans,Ring-tailed mongoose,Carnivora,Eupleridae,800,26,captivity,acceptable,671
+02106,Acinonyx,jubatus,Cheetah,Carnivora,Felidae,53500,20.5,captivity,high,671
+02107,Caracal,caracal,Caracal,Carnivora,Felidae,16000,20.3,captivity,acceptable,671
+02108,Catopuma,temminckii,Asiatic golden cat,Carnivora,Felidae,13500,23,captivity,acceptable,671
+02110,Felis,chaus,Jungle cat,Carnivora,Felidae,10000,20,captivity,acceptable,671
+02111,Felis,manul,Pallas' cat,Carnivora,Felidae,3500,15.9,captivity,acceptable,671
+02112,Felis,margarita,Sand cat,Carnivora,Felidae,2750,13.9,captivity,acceptable,671
+02113,Felis,nigripes,Black-footed cat,Carnivora,Felidae,2125,15.6,captivity,acceptable,671
+02114,Felis,silvestris,Wild cat,Carnivora,Felidae,5500,19,captivity,acceptable,671
+02115,Leopardus,colocolo,Colocolo,Carnivora,Felidae,2950,19.6,captivity,acceptable,671
+02116,Leopardus,geoffroyi,Geoffroy's cat,Carnivora,Felidae,4000,23,captivity,acceptable,671
+02118,Leopardus,pardalis,Ocelot,Carnivora,Felidae,8800,28.2,captivity,acceptable,671
+02119,Leopardus,tigrinus,Little spotted cat,Carnivora,Felidae,2250,21.9,captivity,acceptable,671
+02120,Leopardus,wiedii,Margay,Carnivora,Felidae,3666.7,24,captivity,acceptable,671
+02121,Leptailurus,serval,Serval,Carnivora,Felidae,13350,22.4,captivity,high,671
+02122,Lynx,canadensis,Canada lynx,Carnivora,Felidae,10100,26.8,captivity,acceptable,671
+02123,Lynx,lynx,Eurasian lynx,Carnivora,Felidae,23000,26,captivity,acceptable,1306
+02125,Lynx,rufus,Bobcat,Carnivora,Felidae,8600,32.3,captivity,acceptable,671
+02126,Neofelis,nebulosa,Clouded leopard,Carnivora,Felidae,19500,19.8,captivity,acceptable,671
+02127,Panthera,leo,Lion,Carnivora,Felidae,175000,28,captivity,acceptable,1306
+02128,Panthera,onca,Jaguar,Carnivora,Felidae,81150,28,captivity,high,671
+02129,Panthera,pardus,Leopard,Carnivora,Felidae,53750,27.3,captivity,high,671
+02130,Panthera,tigris,Tiger,Carnivora,Felidae,119700,26.3,captivity,high,671
+02132,Prionailurus,bengalensis,Leopard cat,Carnivora,Felidae,5000,17,captivity,acceptable,671
+02133,Prionailurus,planiceps,Flat-headed cat,Carnivora,Felidae,6750,14,captivity,acceptable,671
+02134,Prionailurus,rubiginosus,Rusty-spotted cat,Carnivora,Felidae,1350,17.9,captivity,acceptable,671
+02135,Prionailurus,viverrinus,Fishing cat,Carnivora,Felidae,10650,17.2,captivity,acceptable,671
+02136,Profelis,aurata,African golden cat,Carnivora,Felidae,10650,21,captivity,acceptable,671
+02137,Puma,concolor,Cougar,Carnivora,Felidae,63000,27,captivity,acceptable,1306
+02138,Puma,yagouaroundi,Jaguarundi,Carnivora,Felidae,7000,18.6,captivity,acceptable,671
+02139,Uncia,uncia,Snow leopard,Carnivora,Felidae,50000,21.2,captivity,high,671
+02140,Atilax,paludinosus,Marsh mongoose,Carnivora,Herpestidae,3300,20.8,captivity,acceptable,671
+02141,Bdeogale,nigripes,Black-footed mongoose,Carnivora,Herpestidae,2000,15.8,captivity,acceptable,671
+02142,Crossarchus,obscurus,Long-nosed cusimanse,Carnivora,Herpestidae,790,13.3,captivity,acceptable,671
+02143,Cynictis,penicillata,Yellow mongoose,Carnivora,Herpestidae,598.5,15.2,captivity,acceptable,671
+02144,Galerella,pulverulenta,Cape gray mongoose,Carnivora,Herpestidae,650,11.7,captivity,acceptable,671
+02145,Galerella,sanguinea,Slender mongoose,Carnivora,Herpestidae,500,12.6,captivity,acceptable,671
+02146,Helogale,parvula,Dwarf mongoose,Carnivora,Herpestidae,274.8,20,captivity,acceptable,1306
+02148,Herpestes,edwardsi,Indian gray mongoose,Carnivora,Herpestidae,1000,12.3,captivity,acceptable,671
+02150,Herpestes,javanicus,Javan mongoose,Carnivora,Herpestidae,800,16.6,captivity,acceptable,671
+02152,Herpestes,smithii,Ruddy mongoose,Carnivora,Herpestidae,1702.5,17.8,captivity,acceptable,671
+02153,Herpestes,urva,Crab-eating mongoose,Carnivora,Herpestidae,1863.2,13.3,captivity,acceptable,671
+02154,Herpestes,vitticollis,Striped-necked mongoose,Carnivora,Herpestidae,2250,12.8,captivity,acceptable,671
+02155,Ichneumia,albicauda,White-tailed mongoose,Carnivora,Herpestidae,3500,14.8,captivity,acceptable,671
+02156,Mungos,mungo,Banded mongoose,Carnivora,Herpestidae,1331.5,17.4,captivity,high,671
+02157,Suricata,suricatta,Meerkat,Carnivora,Herpestidae,776,20.6,captivity,high,671
+02158,Crocuta,crocuta,Spotted hyena,Carnivora,Hyaenidae,63000,41.1,captivity,acceptable,671
+02159,Hyaena,brunnea,Brown hyena,Carnivora,Hyaenidae,42250,31.9,captivity,acceptable,671
+02160,Hyaena,hyaena,Striped hyena,Carnivora,Hyaenidae,40000,25,captivity,acceptable,671
+02161,Proteles,cristata,Aardwolf,Carnivora,Hyaenidae,10000,20,captivity,acceptable,671
+02162,Conepatus,chinga,Molina's hog-nosed skunk,Carnivora,Mephitidae,3400,10,captivity,acceptable,671
+02163,Conepatus,leuconotus,"American hog-nosed skunk, or Hog-nosed skunk",Carnivora,Mephitidae,1900,10.2,captivity,acceptable,671
+02165,Mephitis,mephitis,Striped skunk,Carnivora,Mephitidae,3500,13.9,captivity,acceptable,671
+02166,Spilogale,putorius,Eastern spotted skunk,Carnivora,Mephitidae,600,10.5,captivity,acceptable,671
+02167,Aonyx,capensis,African clawless otter,Carnivora,Mustelidae,23500,14.2,captivity,acceptable,671
+02168,Aonyx,cinereus,Oriental small-clawed otter,Carnivora,Mustelidae,3000,23,captivity,acceptable,671
+02169,Arctonyx,collaris,Hog badger,Carnivora,Mustelidae,10500,15.8,captivity,acceptable,671
+02170,Eira,barbara,Tayra,Carnivora,Mustelidae,4500,22.3,captivity,acceptable,671
+02171,Enhydra,lutris,Sea otter,Carnivora,Mustelidae,25850,27,captivity,acceptable,671
+02172,Galictis,cuja,Lesser grison,Carnivora,Mustelidae,1000,10.2,captivity,acceptable,671
+02173,Galictis,vittata,Greater grison,Carnivora,Mustelidae,2300,12.5,captivity,acceptable,671
+02174,Gulo,gulo,Wolverine,Carnivora,Mustelidae,16333.3,19.5,captivity,acceptable,671
+02175,Hydrictis,maculicollis,Spotted-necked otter,Carnivora,Mustelidae,4000,22.9,captivity,acceptable,671
+02177,Ictonyx,striatus,Striped polecat,Carnivora,Mustelidae,910,14,captivity,acceptable,671
+02178,Lontra,canadensis,Northern river otter,Carnivora,Mustelidae,9000,27,captivity,acceptable,671
+02180,Lutra,lutra,European otter,Carnivora,Mustelidae,6750,18.2,captivity,acceptable,671
+02182,Martes,americana,American marten,Carnivora,Mustelidae,884,17.8,captivity,acceptable,671
+02183,Martes,flavigula,Yellow-throated marten,Carnivora,Mustelidae,2500,16,captivity,acceptable,671
+02184,Martes,foina,Beech marten,Carnivora,Mustelidae,1700,18.2,captivity,acceptable,671
+02185,Martes,martes,European pine marten,Carnivora,Mustelidae,1300,18.2,captivity,acceptable,671
+02187,Martes,pennanti,Fisher,Carnivora,Mustelidae,3175,14.3,captivity,acceptable,671
+02188,Martes,zibellina,Sable,Carnivora,Mustelidae,1066.7,18.4,captivity,acceptable,671
+02189,Meles,meles,"European badger, or Old World badger",Carnivora,Mustelidae,13000,18.6,captivity,acceptable,671
+02190,Mellivora,capensis,Honey badger,Carnivora,Mustelidae,10000,31.3,captivity,acceptable,671
+02191,Melogale,moschata,Chinese ferret-badger,Carnivora,Mustelidae,672,19,captivity,acceptable,671
+02193,Mustela,erminea,Ermine,Carnivora,Mustelidae,110.3,12.5,captivity,acceptable,671
+02194,Mustela,eversmanii,Steppe polecat,Carnivora,Mustelidae,1350,9.1,captivity,acceptable,671
+02195,Mustela,frenata,Long-tailed weasel,Carnivora,Mustelidae,150.6,8.8,captivity,acceptable,671
+02196,Mustela,lutreola,European mink,Carnivora,Mustelidae,590,8.4,captivity,acceptable,671
+02197,Mustela,nigripes,Black-footed ferret,Carnivora,Mustelidae,1021,9.4,captivity,acceptable,671
+02198,Mustela,nivalis,Least weasel,Carnivora,Mustelidae,46.9,9.1,captivity,acceptable,671
+02199,Mustela,putorius,European polecat,Carnivora,Mustelidae,809,11.1,captivity,acceptable,671
+02200,Mustela,sibirica,Siberian weasel,Carnivora,Mustelidae,565,8.8,captivity,acceptable,671
+02201,Neovison,vison,American mink,Carnivora,Mustelidae,925,11.4,captivity,acceptable,671
+02203,Pteronura,brasiliensis,Giant otter,Carnivora,Mustelidae,24000,17.3,captivity,acceptable,671
+02204,Taxidea,taxus,American badger,Carnivora,Mustelidae,8000,25,captivity,acceptable,671
+02205,Vormela,peregusna,Marbled polecat,Carnivora,Mustelidae,542.5,8.8,captivity,acceptable,671
+02206,Nandinia,binotata,African palm civet,Carnivora,Nandiniidae,1900,21,captivity,acceptable,671
+02208,Arctocephalus,australis,South American fur seal,Carnivora,Otariidae,110000,30.6,captivity,acceptable,671
+02212,Arctocephalus,pusillus,South African fur seal,Carnivora,Otariidae,127551,32.1,captivity,acceptable,671
+02215,Eumetopias,jubatus,Steller sea lion,Carnivora,Otariidae,415000,32.8,captivity,acceptable,671
+02216,Neophoca,cinerea,Australian sea lion,Carnivora,Otariidae,190000,24.1,captivity,acceptable,671
+02217,Otaria,flavescens,Southern sea lion,Carnivora,Otariidae,207500,29,captivity,acceptable,671
+02219,Zalophus,californianus,California sea lion,Carnivora,Otariidae,180000,35.7,captivity,high,671
+02222,Halichoerus,grypus,Gray seal,Carnivora,Phocidae,268000,42.9,captivity,acceptable,671
+02234,Phoca,vitulina,Harbor seal,Carnivora,Phocidae,115000,47.6,captivity,acceptable,671
+02236,Pusa,hispida,Ringed seal,Carnivora,Phocidae,90000,46,captivity,acceptable,671
+02237,Pusa,sibirica,Baikal seal,Carnivora,Phocidae,90000,56,captivity,acceptable,671
+02238,Bassaricyon,alleni,Allen's olingo,Carnivora,Procyonidae,1235,25.2,captivity,acceptable,671
+02239,Bassaricyon,gabbii,Olingo,Carnivora,Procyonidae,1235,21.8,captivity,acceptable,671
+02240,Bassariscus,astutus,Ringtail,Carnivora,Procyonidae,1015,19,captivity,acceptable,671
+02241,Bassariscus,sumichrasti,Cacomistle,Carnivora,Procyonidae,900,24,captivity,acceptable,671
+02242,Nasua,narica,White-nosed coati,Carnivora,Procyonidae,3750,26.4,captivity,acceptable,671
+02243,Nasua,nasua,South american coati,Carnivora,Procyonidae,4750,23.7,captivity,high,671
+02244,Potos,flavus,Kinkajou,Carnivora,Procyonidae,3000,38.4,captivity,acceptable,671
+02245,Procyon,cancrivorus,Crab-eating raccoon,Carnivora,Procyonidae,6270,19,captivity,acceptable,671
+02246,Procyon,lotor,Common raccoon,Carnivora,Procyonidae,6000,21,captivity,acceptable,671
+02247,Ailuropoda,melanoleuca,Giant panda,Carnivora,Ursidae,117500,36.8,captivity,acceptable,671
+02248,Helarctos,malayanus,Sun bear,Carnivora,Ursidae,46000,35.9,captivity,acceptable,671
+02249,Melursus,ursinus,Sloth bear,Carnivora,Ursidae,100000,33.3,captivity,acceptable,671
+02250,Tremarctos,ornatus,Spectacled bear,Carnivora,Ursidae,109250,39,captivity,acceptable,671
+02251,Ursus,americanus,American black bear,Carnivora,Ursidae,154250,34,captivity,acceptable,671
+02252,Ursus,arctos,Brown bear,Carnivora,Ursidae,277500,40,captivity,acceptable,671
+02253,Ursus,maritimus,Polar bear,Carnivora,Ursidae,475000,43.8,captivity,acceptable,671
+02254,Ursus,thibetanus,Asiatic black bear,Carnivora,Ursidae,103750,39.2,captivity,acceptable,671
+02255,Arctictis,binturong,Binturong,Carnivora,Viverridae,12250,27,captivity,acceptable,671
+02256,Arctogalidia,trivirgata,Small-toothed palm civet,Carnivora,Viverridae,2250,16.1,captivity,acceptable,671
+02258,Civettictis,civetta,African civet,Carnivora,Viverridae,13666.7,28,captivity,acceptable,671
+02261,Genetta,genetta,Small-spotted genet,Carnivora,Viverridae,1866.7,22.7,captivity,acceptable,671
+02262,Genetta,maculata,Panther genet,Carnivora,Viverridae,2225,20,captivity,acceptable,671
+02265,Genetta,tigrina,Large-spotted genet,Carnivora,Viverridae,1820,21.3,captivity,acceptable,671
+02266,Hemigalus,derbyanus,Banded palm civet,Carnivora,Viverridae,2400,16,captivity,acceptable,671
+02267,Paguma,larvata,Masked palm civet,Carnivora,Viverridae,4300,27.4,captivity,acceptable,671
+02268,Paradoxurus,hermaphroditus,Asian palm civet,Carnivora,Viverridae,3100,24.5,captivity,acceptable,671
+02272,Viverra,zibetha,Large indian civet,Carnivora,Viverridae,10000,21.7,captivity,acceptable,671
+02275,Balaena,mysticetus,Bowhead whale,Cetacea,Balaenidae,100000000,211,wild,acceptable,21
+02276,Eubalaena,australis,Southern right whale,Cetacea,Balaenidae,45000000,70,wild,acceptable,434
+02277,Eubalaena,glacialis,North atlantic right whale,Cetacea,Balaenidae,23000000,67,wild,acceptable,642
+02278,Balaenoptera,acutorostrata,Common minke whale,Cetacea,Balaenopteridae,7500000,50,wild,acceptable,542
+02279,Balaenoptera,borealis,Sei whale,Cetacea,Balaenopteridae,20000000,74,wild,acceptable,1
+02280,Balaenoptera,edeni,Bryde's whale,Cetacea,Balaenopteridae,16000000,72,wild,acceptable,1
+02281,Balaenoptera,musculus,Blue whale,Cetacea,Balaenopteridae,136000000,110,wild,acceptable,1
+02282,Balaenoptera,physalus,Fin whale,Cetacea,Balaenopteridae,70000000,114,wild,acceptable,434
+02283,Megaptera,novaeangliae,Humpback whale,Cetacea,Balaenopteridae,30000000,95,wild,acceptable,573
+02287,Delphinus,delphis,Short-beaked saddleback dolphin,Cetacea,Delphinidae,80000,25,wild,acceptable,1403
+02288,Globicephala,macrorhynchus,Short-finned pilot whale,Cetacea,Delphinidae,2200000,63,wild,acceptable,1
+02289,Globicephala,melas,Long-finned pilot whale,Cetacea,Delphinidae,1060000,60,captivity,acceptable,671
+02290,Grampus,griseus,Risso's dolphin,Cetacea,Delphinidae,425000,42.5,captivity,acceptable,671
+02292,Lagenorhynchus,acutus,Atlantic white-sided dolphin,Cetacea,Delphinidae,208000,27,wild,acceptable,1
+02293,Lagenorhynchus,obliquidens,Pacific white-sided dolphin,Cetacea,Delphinidae,103000,46,captivity,acceptable,671
+02294,Orcaella,brevirostris,Irrawaddy dolphin,Cetacea,Delphinidae,190000,30,wild,acceptable,624
+02295,Orcinus,orca,Killer whale,Cetacea,Delphinidae,3987500,90,wild,acceptable,784
+02296,Peponocephala,electra,Melon-headed whale,Cetacea,Delphinidae,206000,47,wild,acceptable,1
+02297,Pseudorca,crassidens,False killer whale,Cetacea,Delphinidae,748000,62.5,captivity,acceptable,671
+02300,Stenella,attenuata,Pantropical spotted dolphin,Cetacea,Delphinidae,112500,46,wild,acceptable,1
+02301,Stenella,coeruleoalba,Striped dolphin,Cetacea,Delphinidae,112500,57.5,wild,acceptable,500
+02302,Steno,bredanensis,Rough-toothed dolphin,Cetacea,Delphinidae,114000,32,wild,acceptable,1
+02304,Tursiops,truncatus,Bottlenosed dolphin,Cetacea,Delphinidae,200000,51.6,captivity,acceptable,671
+02305,Eschrichtius,robustus,Gray whale,Cetacea,Eschrichtiidae,28500000,77,wild,acceptable,573
+02306,Berardius,bairdii,Baird's beaked whale,Cetacea,Hyperoodontidae,11380000,84,wild,acceptable,
+02307,Hyperoodon,ampullatus,Northern bottlenose whale,Cetacea,Hyperoodontidae,6500000,37,wild,acceptable,1
+02309,Mesoplodon,europaeus,Gervais's beaked whale,Cetacea,Hyperoodontidae,5600000,48,wild,acceptable,443
+02310,Ziphius,cavirostris,Cuvier's beaked whale,Cetacea,Hyperoodontidae,2701000,62,wild,acceptable,443
+02311,Inia,geoffrensis,"Amazon river dolphin, or Amazon dolphin",Cetacea,Iniidae,84000,31.3,captivity,acceptable,671
+02312,Kogia,breviceps,Pygmy sperm whale,Cetacea,Kogiidae,424600,17,wild,acceptable,573
+02314,Delphinapterus,leucas,Beluga,Cetacea,Monodontidae,1430000,40,captivity,acceptable,671
+02315,Monodon,monoceros,Narwhal,Cetacea,Monodontidae,1250000,50,wild,acceptable,561
+02316,Neophocaena,phocaenoides,Finless porpoise,Cetacea,Phocoenidae,32500,33,captivity,acceptable,671
+02317,Phocoena,phocoena,Harbor porpoise,Cetacea,Phocoenidae,52500,20.4,captivity,acceptable,671
+02318,Phocoenoides,dalli,Dall's porpoise,Cetacea,Phocoenidae,120000,22,wild,acceptable,1
+02319,Physeter,macrocephalus,Sperm whale,Cetacea,Physeteridae,28500000,77,wild,acceptable,1
+02323,Saccopteryx,bilineata,Greater sac-winged bat,Chiroptera,Emballonuridae,7.9,6,wild,acceptable,424
+02325,Taphozous,hilli,Hill's tomb bat,Chiroptera,Emballonuridae,21.99,8.8,wild,acceptable,1305
+02326,Hipposideros,fulvus,Fulvus roundleaf bat,Chiroptera,Hipposideridae,7,13,wild,acceptable,424
+02327,Macroderma,gigas,Australian false vampire bat,Chiroptera,Megadermatidae,150,22.6,captivity,acceptable,671
+02328,Megaderma,lyra,Greater false vampire bat,Chiroptera,Megadermatidae,38.6,14,wild,acceptable,424
+02330,Miniopterus,schreibersii,Schreibers's long-fingered bat,Chiroptera,Miniopteridae,13,22,wild,acceptable,424
+02331,Molossus,molossus,Pallas's mastiff bat,Chiroptera,Molossidae,14,5.6,wild,acceptable,1283
+02333,Tadarida,brasiliensis,Brazilian free-tailed bat,Chiroptera,Molossidae,12.5,12,captivity,acceptable,671
+02334,Tadarida,teniotis,European free-tailed bat,Chiroptera,Molossidae,35,13,wild,acceptable,424
+02335,Mystacina,tuberculata,New Zealand lesser short-tailed bat,Chiroptera,Mystacinidae,23.5,7.6,captivity,acceptable,671
+02336,Noctilio,leporinus,Greater bulldog bat,Chiroptera,Noctilionidae,50,11.8,captivity,acceptable,671
+02337,Anoura,geoffroyi,Geoffroy's tailless bat,Chiroptera,Phyllostomidae,15.2,10,captivity,acceptable,671
+02338,Artibeus,jamaicensis,Jamaican fruit-eating bat,Chiroptera,Phyllostomidae,42.2,19.2,captivity,acceptable,671
+02340,Carollia,perspicillata,Seba's short-tailed bat,Chiroptera,Phyllostomidae,15,17,captivity,high,671
+02341,Desmodus,rotundus,Vampire bat,Chiroptera,Phyllostomidae,33.2,29.2,captivity,acceptable,671
+02342,Diphylla,ecaudata,Hairy-legged vampire bat,Chiroptera,Phyllostomidae,28,8,wild,acceptable,0974
+02343,Glossophaga,soricina,Pallas's long-tongued bat,Chiroptera,Phyllostomidae,10,11,captivity,acceptable,671
+02344,Leptonycteris,curasoae,Southern long-nosed bat,Chiroptera,Phyllostomidae,25,10.1,wild,acceptable,0974
+02345,Macrotus,californicus,California leaf-nosed bat,Chiroptera,Phyllostomidae,11.6,17,captivity,acceptable,671
+02346,Macrotus,waterhousii,Waterhouse's leaf-nosed bat,Chiroptera,Phyllostomidae,16,10.4,wild,acceptable,513
+02347,Phyllostomus,discolor,Pale spear-nosed bat,Chiroptera,Phyllostomidae,43.4,9,wild,acceptable,424
+02348,Phyllostomus,hastatus,Greater spear-nosed bat,Chiroptera,Phyllostomidae,81,18,wild,acceptable,424
+02349,Platyrrhinus,lineatus,White-lined broad-nosed bat,Chiroptera,Phyllostomidae,22,13,captivity,acceptable,671
+02350,Sturnira,lilium,Little yellow-shouldered bat,Chiroptera,Phyllostomidae,20,12,captivity,acceptable,671
+02351,Cynopterus,brachyotis,Lesser short-nosed fruit bat,Chiroptera,Pteropodidae,45,10.1,captivity,acceptable,671
+02352,Cynopterus,sphinx,Greater short-nosed fruit bat,Chiroptera,Pteropodidae,75,10,captivity,acceptable,671
+02353,Dobsonia,moluccensis,Moluccan naked-backed fruit bat,Chiroptera,Pteropodidae,430,12.3,captivity,acceptable,671
+02354,Eidolon,helvum,Straw-colored fruit bat,Chiroptera,Pteropodidae,306.25,21.8,captivity,acceptable,671
+02355,Epomophorus,gambianus,Gambian epauletted fruit bat,Chiroptera,Pteropodidae,80,7.8,captivity,acceptable,671
+02356,Epomophorus,wahlbergi,Wahlberg's epauletted fruit bat,Chiroptera,Pteropodidae,80,10.1,captivity,acceptable,671
+02357,Haplonycteris,fischeri,Philippine pygmy fruit bat,Chiroptera,Pteropodidae,18,10,unknown,acceptable,434
+02359,Pteropus,alecto,Black flying fox,Chiroptera,Pteropodidae,672.1,20.3,wild,acceptable,1305
+02361,Pteropus,dasymallus,Ryukyu flying fox,Chiroptera,Pteropodidae,435,24,captivity,acceptable,671
+02362,Pteropus,giganteus,Indian flying fox,Chiroptera,Pteropodidae,1175,44,captivity,high,"Melody Brooks, pers. comm."
+02363,Pteropus,hypomelanus,Variable flying fox,Chiroptera,Pteropodidae,450,20.3,captivity,acceptable,671
+02364,Pteropus,livingstonii,Comoro black flying fox,Chiroptera,Pteropodidae,696.5,15,captivity,acceptable,671
+02365,Pteropus,lylei,Lyle's flying fox,Chiroptera,Pteropodidae,316.7,20.4,captivity,acceptable,671
+02366,Pteropus,niger,Greater mascarene flying fox,Chiroptera,Pteropodidae,456.3,19.4,captivity,acceptable,671
+02367,Pteropus,poliocephalus,Gray-headed flying fox,Chiroptera,Pteropodidae,675,23.6,captivity,acceptable,671
+02368,Pteropus,pselaphon,Bonin flying fox,Chiroptera,Pteropodidae,321.49,16.7,captivity,acceptable,671
+02369,Pteropus,pumilus,Little golden-mantled flying fox,Chiroptera,Pteropodidae,200,17.2,captivity,acceptable,671
+02370,Pteropus,rodricensis,Rodriguez flying fox,Chiroptera,Pteropodidae,350,28,captivity,acceptable,671
+02371,Pteropus,scapulatus,Little red flying fox,Chiroptera,Pteropodidae,300,15.8,captivity,acceptable,671
+02372,Pteropus,vampyrus,Large flying fox,Chiroptera,Pteropodidae,872,20.9,captivity,acceptable,671
+02374,Rousettus,aegyptiacus,Egyptian rousette,Chiroptera,Pteropodidae,125,22.9,wild,acceptable,424
+02375,Rousettus,lanosus,Long-haired rousette,Chiroptera,Pteropodidae,103,18.7,captivity,acceptable,671
+02376,Rousettus,leschenaultii,Leschenault's rousette,Chiroptera,Pteropodidae,108.25,14,captivity,acceptable,671
+02378,Rhinolophus,ferrumequinum,Greater horseshoe bat,Chiroptera,Rhinolophidae,22.875,30.5,wild,acceptable,1
+02379,Rhinolophus,hipposideros,Lesser horseshoe bat,Chiroptera,Rhinolophidae,4.6,29.4,wild,acceptable,970
+02381,Antrozous,pallidus,Pallid bat,Chiroptera,Vespertilionidae,20.8,14.8,captivity,acceptable,671
+02382,Barbastella,barbastellus,Western barbastelle,Chiroptera,Vespertilionidae,10.25,23,wild,acceptable,424
+02383,Chalinolobus,gouldii,Gould's wattled bat,Chiroptera,Vespertilionidae,15.87,7.8,wild,acceptable,1305
+02384,Chalinolobus,morio,Chocolate wattled bat,Chiroptera,Vespertilionidae,8.91,9.6,wild,acceptable,1305
+02386,Corynorhinus,townsendii,Townsend's big-eared bat,Chiroptera,Vespertilionidae,14.25,20.5,wild,acceptable,424
+02387,Eptesicus,fuscus,Big brown bat,Chiroptera,Vespertilionidae,23,19,wild,acceptable,424
+02388,Eptesicus,nilssonii,Northern bat,Chiroptera,Vespertilionidae,13,20,wild,acceptable,970
+02389,Eptesicus,serotinus,Serotine,Chiroptera,Vespertilionidae,18.2,21,wild,acceptable,970
+02390,Falsistrellus,tasmaniensis,Eastern false pipistrelle,Chiroptera,Vespertilionidae,22.54,6,wild,acceptable,1305
+02391,Lasionycteris,noctivagans,Silver-haired bat,Chiroptera,Vespertilionidae,10,12,wild,acceptable,1
+02392,Lasiurus,cinereus,Hoary bat,Chiroptera,Vespertilionidae,24,14,wild,acceptable,424
+02394,Myotis,bechsteinii,Bechstein's bat,Chiroptera,Vespertilionidae,10.5,21,wild,acceptable,970
+02395,Myotis,blythii,Lesser mouse-eared bat,Chiroptera,Vespertilionidae,23,33,wild,acceptable,424
+02396,Myotis,brandtii,Brandt's bat,Chiroptera,Vespertilionidae,7,41,wild,acceptable,424
+02397,Myotis,dasycneme,Pond bat,Chiroptera,Vespertilionidae,15,20.5,wild,acceptable,424
+02398,Myotis,daubentonii,Daubenton's bat,Chiroptera,Vespertilionidae,8.5,28,wild,acceptable,424
+02399,Myotis,emarginatus,Geoffroy's bat,Chiroptera,Vespertilionidae,11,22.7,wild,acceptable,424
+02400,Myotis,evotis,Western long-eared myotis,Chiroptera,Vespertilionidae,7.4,22,wild,acceptable,424
+02401,Myotis,grisescens,Gray myotis,Chiroptera,Vespertilionidae,9.25,16.5,wild,acceptable,1
+02402,Myotis,keenii,Keen's myotis,Chiroptera,Vespertilionidae,7.4,19,wild,acceptable,424
+02403,Myotis,leibii,Eastern small-footed myotis,Chiroptera,Vespertilionidae,5.6,12,wild,acceptable,424
+02404,Myotis,lucifugus,Little brown bat,Chiroptera,Vespertilionidae,10,34,wild,acceptable,424
+02406,Myotis,myotis,Mouse-eared bat,Chiroptera,Vespertilionidae,28.55,37.1,wild,acceptable,970
+02407,Myotis,mystacinus,Whiskered bat,Chiroptera,Vespertilionidae,5.3,24,wild,acceptable,424
+02408,Myotis,nattereri,Natterer's bat,Chiroptera,Vespertilionidae,7.5,23.7,wild,acceptable,970
+02409,Myotis,nigricans,Black myotis,Chiroptera,Vespertilionidae,4.2,7,wild,acceptable,1
+02410,Myotis,sodalis,Indiana bat,Chiroptera,Vespertilionidae,7.7,20,wild,acceptable,424
+02411,Myotis,thysanodes,Fringed myotis,Chiroptera,Vespertilionidae,6,18.3,wild,acceptable,1
+02412,Myotis,velifer,Cave myotis,Chiroptera,Vespertilionidae,10.1,11.3,wild,acceptable,424
+02413,Myotis,vivesi,Fish-eating bat,Chiroptera,Vespertilionidae,25,10,unknown,acceptable,1
+02414,Myotis,volans,Long-legged myotis,Chiroptera,Vespertilionidae,7,21,wild,acceptable,424
+02415,Myotis,yumanensis,Yuma myotis,Chiroptera,Vespertilionidae,6.25,14,wild,acceptable,984
+02416,Nyctalus,leisleri,Lesser noctule,Chiroptera,Vespertilionidae,16,16,wild,acceptable,424
+02417,Nyctalus,noctula,Noctule,Chiroptera,Vespertilionidae,27.75,12,wild,acceptable,424
+02418,Nycticeius,humeralis,Evening bat,Chiroptera,Vespertilionidae,9.75,6,wild,acceptable,424
+02419,Nyctophilus,geoffroyi,Lesser long-eared bat,Chiroptera,Vespertilionidae,8,7.3,wild,acceptable,1305
+02422,Perimyotis,subflavus,Eastern pipistrelle,Chiroptera,Vespertilionidae,7.5,14.8,wild,acceptable,1
+02423,Pipistrellus,kuhlii,Kuhl's pipistrelle,Chiroptera,Vespertilionidae,6,8,wild,acceptable,424
+02424,Pipistrellus,nathusii,Nathusius's pipistrelle,Chiroptera,Vespertilionidae,10,11,wild,acceptable,424
+02425,Pipistrellus,pipistrellus,Common pipistrelle,Chiroptera,Vespertilionidae,5,16.6,wild,acceptable,970
+02426,Plecotus,auritus,Brown big-eared bat,Chiroptera,Vespertilionidae,7.8,30,wild,acceptable,424
+02427,Plecotus,austriacus,Gray big-eared bat,Chiroptera,Vespertilionidae,12,25.5,wild,acceptable,970
+02428,Scotorepens,balstoni,Western broad-nosed bat,Chiroptera,Vespertilionidae,11.7,9.7,captivity,acceptable,671
+02429,Scotorepens,orion,Orion broad-nosed bat,Chiroptera,Vespertilionidae,11.765,11.1,wild,acceptable,1305
+02430,Vespadelus,darlingtoni,Large forest bat,Chiroptera,Vespertilionidae,6.06,8,wild,acceptable,1305
+02432,Vespadelus,regulus,Southern forest bat,Chiroptera,Vespertilionidae,5.05,8,wild,acceptable,1305
+02433,Vespadelus,vulturnus,Little forest bat,Chiroptera,Vespertilionidae,3.77,9.1,wild,acceptable,1305
+02438,Chaetophractus,vellerosus,Screaming hairy armadillo,Cingulata,Dasypodidae,840,16.2,captivity,acceptable,671
+02439,Chaetophractus,villosus,Large hairy armadillo,Cingulata,Dasypodidae,3000,25.2,captivity,acceptable,671
+02441,Dasypus,novemcinctus,Nine-banded armadillo,Cingulata,Dasypodidae,5500,22.3,captivity,acceptable,671
+02443,Euphractus,sexcinctus,Six-banded armadillo,Cingulata,Dasypodidae,4850,22.1,captivity,acceptable,671
+02444,Priodontes,maximus,Giant armadillo,Cingulata,Dasypodidae,33000,15,captivity,acceptable,671
+02445,Tolypeutes,matacus,Southern three-banded armadillo,Cingulata,Dasypodidae,1500,36.8,captivity,acceptable,"John Gramieri, pers. comm."
+02447,Zaedyus,pichiy,Pichi,Cingulata,Dasypodidae,1500,12.5,captivity,acceptable,671
+02448,Antechinomys,laniger,Kultarr,Dasyuromorphia,Dasyuridae,24,3.5,captivity,acceptable,671
+02449,Antechinus,agilis,Agile antechinus,Dasyuromorphia,Dasyuridae,18,4.7,captivity,acceptable,671
+02450,Antechinus,bellus,Fawn antechinus,Dasyuromorphia,Dasyuridae,34,3.4,captivity,acceptable,671
+02451,Antechinus,flavipes,Yellow-footed antechinus,Dasyuromorphia,Dasyuridae,45,3.9,captivity,acceptable,671
+02454,Antechinus,stuartii,Brown antechinus,Dasyuromorphia,Dasyuridae,27.5,5.4,captivity,acceptable,671
+02455,Antechinus,swainsonii,Dusky antechinus,Dasyuromorphia,Dasyuridae,41,3.3,captivity,acceptable,671
+02456,Dasycercus,cristicauda,Mulgara,Dasyuromorphia,Dasyuridae,115,7.4,captivity,acceptable,671
+02458,Dasyuroides,byrnei,Kowari,Dasyuromorphia,Dasyuridae,105,8,captivity,acceptable,671
+02459,Dasyurus,geoffroii,Western quoll,Dasyuromorphia,Dasyuridae,890,6.2,captivity,acceptable,671
+02460,Dasyurus,hallucatus,Northern quoll,Dasyuromorphia,Dasyuridae,525,5.9,captivity,acceptable,671
+02461,Dasyurus,maculatus,"Tiger quoll, or Australian tiger cat",Dasyuromorphia,Dasyuridae,5500,6.8,captivity,acceptable,671
+02462,Dasyurus,viverrinus,Eastern quoll,Dasyuromorphia,Dasyuridae,1090,6.8,captivity,acceptable,671
+02465,Parantechinus,apicalis,Southern dibbler,Dasyuromorphia,Dasyuridae,70,5.5,captivity,acceptable,671
+02466,Phascogale,calura,Red-tailed phascogale,Dasyuromorphia,Dasyuridae,43,4.7,captivity,acceptable,671
+02467,Phascogale,tapoatafa,Brush-tailed phascogale,Dasyuromorphia,Dasyuridae,193.5,5.9,captivity,acceptable,671
+02470,Planigale,maculata,Pygmy planigale,Dasyuromorphia,Dasyuridae,10,5.8,captivity,acceptable,671
+02471,Planigale,tenuirostris,Narrow-nosed planigale,Dasyuromorphia,Dasyuridae,5.3,5.2,captivity,acceptable,671
+02473,Pseudantechinus,macdonnellensis,Fat-tailed marsupial mouse,Dasyuromorphia,Dasyuridae,32.5,7,captivity,acceptable,671
+02476,Sarcophilus,harrisii,Tasmanian devil,Dasyuromorphia,Dasyuridae,6500,13,captivity,acceptable,671
+02477,Sminthopsis,crassicaudata,Fat-tailed dunnart,Dasyuromorphia,Dasyuridae,15,5,captivity,acceptable,671
+02480,Sminthopsis,griseoventer,Gray-bellied dunnart,Dasyuromorphia,Dasyuridae,17.5,3.6,captivity,acceptable,671
+02481,Sminthopsis,macroura,Stripe-faced dunnart,Dasyuromorphia,Dasyuridae,20,4.9,captivity,acceptable,671
+02483,Sminthopsis,virginiae,Red-cheeked dunnart,Dasyuromorphia,Dasyuridae,34,5.3,captivity,acceptable,671
+02484,Sminthopsis,youngsoni,Lesser hairy-footed dunnart,Dasyuromorphia,Dasyuridae,10,5.3,captivity,acceptable,671
+02485,Myrmecobius,fasciatus,Numbat,Dasyuromorphia,Myrmecobiidae,471.5,11,captivity,acceptable,671
+02487,Caluromys,derbianus,Central American woolly opossum,Didelphimorphia,Didelphidae,330,8.7,captivity,acceptable,671
+02488,Caluromys,philander,Bare-tailed woolly opossum,Didelphimorphia,Didelphidae,350,8.9,captivity,acceptable,671
+02490,Chironectes,minimus,Water opossum (yapok),Didelphimorphia,Didelphidae,700,3.1,captivity,acceptable,671
+02492,Didelphis,aurita,Big-eared opossum,Didelphimorphia,Didelphidae,850,4,captivity,acceptable,671
+02493,Didelphis,marsupialis,Southern opossum,Didelphimorphia,Didelphidae,1530,4.2,captivity,acceptable,671
+02494,Didelphis,virginiana,Virginia opossum,Didelphimorphia,Didelphidae,3000,6.6,captivity,acceptable,671
+02495,Gracilinanus,agilis,"Agile gracile opossum, or Paraguayan slender mouse opossum",Didelphimorphia,Didelphidae,22,6.1,captivity,acceptable,671
+02496,Lutreolina,crassicaudata,Lutrine opossum,Didelphimorphia,Didelphidae,370,2.9,captivity,acceptable,671
+02499,Marmosa,robinsoni,Robinson's mouse opossum,Didelphimorphia,Didelphidae,75,5,captivity,acceptable,434
+02500,Marmosops,noctivagus,"White-bellied slender opossum, or Rio Napo mouse opossum",Didelphimorphia,Didelphidae,21,4.5,captivity,acceptable,671
+02501,Metachirus,nudicaudatus,Brown four-eyed opossum,Didelphimorphia,Didelphidae,440,3,captivity,acceptable,671
+02502,Monodelphis,adusta,Sepia short-tailed opossum,Didelphimorphia,Didelphidae,35,4.1,captivity,acceptable,671
+02503,Monodelphis,brevicaudata,"Northern red-sided opossum, or Short bare-tailed opossum",Didelphimorphia,Didelphidae,90,3.9,captivity,acceptable,671
+02504,Monodelphis,domestica,Gray short-tailed opossum,Didelphimorphia,Didelphidae,105,5.1,captivity,acceptable,671
+02506,Philander,opossum,Gray four-eyed opossum,Didelphimorphia,Didelphidae,450,4.4,captivity,acceptable,671
+02507,Acrobates,pygmaeus,Pygmy gliding possum,Diprotodontia,Acrobatidae,13,8.8,captivity,high,671
+02509,Burramys,parvus,Mountain pygmy possum,Diprotodontia,Burramyidae,45,12,unknown,acceptable,522
+02511,Cercartetus,nanus,Eastern pygmy possum,Diprotodontia,Burramyidae,40,10.3,captivity,acceptable,671
+02514,Dendrolagus,dorianus,Doria's tree kangaroo,Diprotodontia,Macropodidae,9581,19,captivity,acceptable,671
+02515,Dendrolagus,goodfellowi,Goodfellow's tree kangaroo,Diprotodontia,Macropodidae,7400,23.6,captivity,acceptable,671
+02516,Dendrolagus,inustus,Grizzled tree kangaroo,Diprotodontia,Macropodidae,11400,23.8,captivity,acceptable,671
+02517,Dendrolagus,matschiei,Matschie's tree kangaroo,Diprotodontia,Macropodidae,7200,26.9,captivity,acceptable,671
+02518,Dendrolagus,ursinus,Black tree kangaroo,Diprotodontia,Macropodidae,8000,20,captivity,acceptable,671
+02519,Dorcopsis,luctuosa,Gray dorcopsis,Diprotodontia,Macropodidae,3570,13.9,captivity,acceptable,671
+02520,Dorcopsis,muelleri,Brown dorcopsis,Diprotodontia,Macropodidae,5000,12.4,captivity,acceptable,671
+02521,Dorcopsulus,macleayi,"Macleay's dorcopsis, or Papuan mountain wallaby",Diprotodontia,Macropodidae,2988,7.9,captivity,acceptable,671
+02522,Lagorchestes,conspicillatus,Spectacled hare-wallaby,Diprotodontia,Macropodidae,3000,8.8,captivity,acceptable,671
+02523,Lagorchestes,hirsutus,Rufous hare-wallaby,Diprotodontia,Macropodidae,1310,13.2,captivity,acceptable,671
+02525,Macropus,agilis,Agile wallaby,Diprotodontia,Macropodidae,16000,16.9,captivity,acceptable,671
+02526,Macropus,antilopinus,Antilopine wallaroo,Diprotodontia,Macropodidae,49500,19.8,captivity,acceptable,671
+02527,Macropus,bernardus,Black wallaroo,Diprotodontia,Macropodidae,17500,11.8,captivity,acceptable,671
+02529,Macropus,eugenii,Tammar wallaby,Diprotodontia,Macropodidae,6500,15.1,captivity,acceptable,671
+02530,Macropus,fuliginosus,Western gray kangaroo,Diprotodontia,Macropodidae,28250,23.2,captivity,high,671
+02531,Macropus,giganteus,Eastern gray kangaroo,Diprotodontia,Macropodidae,49500,25,captivity,high,556
+02532,Macropus,parma,Parma wallaby,Diprotodontia,Macropodidae,4250,15.9,captivity,high,671
+02534,Macropus,robustus,Wallaroo,Diprotodontia,Macropodidae,30000,22,captivity,acceptable,671
+02535,Macropus,rufogriseus,Red-necked wallaby,Diprotodontia,Macropodidae,16200,15.2,captivity,acceptable,671
+02536,Macropus,rufus,Red kangaroo,Diprotodontia,Macropodidae,55000,25,captivity,high,671
+02537,Onychogalea,fraenata,"Bridled nail-tail wallaby, or Ridled nail-tailed wallaby",Diprotodontia,Macropodidae,5500,7.4,captivity,acceptable,671
+02538,Onychogalea,unguifera,Northern nail-tailed wallaby,Diprotodontia,Macropodidae,5800,5.5,captivity,acceptable,671
+02540,Petrogale,brachyotis,"Short-eared rock-wallaby, or Western rock wallaby",Diprotodontia,Macropodidae,3700,10.1,captivity,acceptable,671
+02541,Petrogale,concinna,Nabarlek,Diprotodontia,Macropodidae,1250,11.7,captivity,acceptable,671
+02543,Petrogale,penicillata,Brush-tailed rock wallaby,Diprotodontia,Macropodidae,6000,14.3,captivity,acceptable,671
+02544,Petrogale,xanthopus,Ringtailed rock wallaby,Diprotodontia,Macropodidae,6000,14.4,captivity,acceptable,671
+02545,Setonix,brachyurus,Quokka,Diprotodontia,Macropodidae,3500,13.8,captivity,acceptable,671
+02546,Thylogale,billardierii,Tasmanian pademelon,Diprotodontia,Macropodidae,5000,8.8,captivity,acceptable,671
+02547,Thylogale,brunii,Dusky pademelon,Diprotodontia,Macropodidae,4796,9.4,captivity,acceptable,671
+02548,Thylogale,stigmatica,Red-legged pademelon,Diprotodontia,Macropodidae,4100,9.7,captivity,acceptable,671
+02549,Thylogale,thetis,Red-necked pademelon,Diprotodontia,Macropodidae,3800,9,captivity,acceptable,671
+02550,Wallabia,bicolor,Swamp wallaby,Diprotodontia,Macropodidae,14625,16.8,captivity,acceptable,671
+02551,Dactylopsila,trivirgata,Striped possum,Diprotodontia,Petauridae,318,9.6,captivity,acceptable,671
+02552,Gymnobelideus,leadbeateri,Leadbeater's possum,Diprotodontia,Petauridae,127,14.1,captivity,acceptable,671
+02553,Petaurus,australis,Yellow-bellied glider,Diprotodontia,Petauridae,572.5,15,captivity,acceptable,671
+02554,Petaurus,breviceps,Sugar glider,Diprotodontia,Petauridae,110,17.8,captivity,high,671
+02555,Petaurus,norfolcensis,Squirrel glider,Diprotodontia,Petauridae,405,14.8,captivity,acceptable,671
+02557,Phalanger,gymnotis,Ground cuscus,Diprotodontia,Phalangeridae,2400,18.9,captivity,acceptable,671
+02559,Spilocuscus,maculatus,"Common spotted cuscus, or Spotted cuscus",Diprotodontia,Phalangeridae,3500,17,captivity,acceptable,671
+02562,Trichosurus,vulpecula,Brush-tailed possum,Diprotodontia,Phalangeridae,2395,15.9,captivity,acceptable,671
+02564,Phascolarctos,cinereus,Koala,Diprotodontia,Phascolarctidae,9300,22.1,captivity,high,671
+02565,Aepyprymnus,rufescens,Rufous 'rat'-kangaroo,Diprotodontia,Potoroidae,3250,12.8,captivity,acceptable,671
+02568,Bettongia,penicillata,Woylie,Diprotodontia,Potoroidae,1500,18.8,captivity,acceptable,671
+02570,Potorous,longipes,Long-footed potoroo,Diprotodontia,Potoroidae,1650,15.3,captivity,acceptable,671
+02571,Potorous,tridactylus,Long-nosed potoroo,Diprotodontia,Potoroidae,1430,14.5,captivity,acceptable,671
+02572,Hemibelideus,lemuroides,Lemuroid ringtail possum,Diprotodontia,Pseudocheiridae,1040,5.4,captivity,acceptable,671
+02574,Pseudocheirus,peregrinus,"Common ringtail, or Ring-tailed possum",Diprotodontia,Pseudocheiridae,850,10.1,captivity,acceptable,671
+02576,Lasiorhinus,krefftii,Northern hairy-nosed wombat,Diprotodontia,Vombatidae,31000,30,captivity,acceptable,671
+02577,Lasiorhinus,latifrons,Southern hairy-nosed wombat,Diprotodontia,Vombatidae,25500,29.9,captivity,acceptable,671
+02578,Vombatus,ursinus,Coarse-haired wombat,Diprotodontia,Vombatidae,25500,30,captivity,acceptable,671
+02579,Atelerix,albiventris,Four-toed hedgehog,Erinaceomorpha,Erinaceidae,500,11.4,captivity,high,671
+02583,Erinaceus,amurensis,Amur hedgehog,Erinaceomorpha,Erinaceidae,774.475,8,captivity,acceptable,671
+02584,Erinaceus,concolor,Eastern European hedgehog,Erinaceomorpha,Erinaceidae,719,7,captivity,acceptable,671
+02585,Erinaceus,europaeus,Western European hedgehog,Erinaceomorpha,Erinaceidae,750,11.7,captivity,acceptable,671
+02586,Hemiechinus,auritus,Long-eared hedgehog,Erinaceomorpha,Erinaceidae,342,7.6,captivity,acceptable,671
+02587,Paraechinus,aethiopicus,Desert hedgehog,Erinaceomorpha,Erinaceidae,188,6.3,captivity,acceptable,671
+02588,Paraechinus,hypomelas,Brandt's hedgehog,Erinaceomorpha,Erinaceidae,292,7,captivity,acceptable,671
+02589,Dendrohyrax,arboreus,"Southern tree hyrax, or Tree hyrax",Hyracoidea,Procaviidae,3000,13.6,captivity,acceptable,671
+02591,Procavia,capensis,Rock hyrax,Hyracoidea,Procaviidae,3600,14.8,captivity,acceptable,671
+02595,Lepus,brachyurus,Japanese hare,Lagomorpha,Leporidae,2519,13,captivity,acceptable,671
+02596,Lepus,californicus,Black-tailed jackrabbit,Lagomorpha,Leporidae,4175,11.8,captivity,acceptable,671
+02598,Lepus,europaeus,European hare,Lagomorpha,Leporidae,4175,10.7,captivity,acceptable,671
+02599,Lepus,timidus,Mountain hare,Lagomorpha,Leporidae,4175,18,wild,acceptable,640
+02601,Oryctolagus,cuniculus,European rabbit,Lagomorpha,Leporidae,1800,13,captivity,acceptable,1306
+02602,Sylvilagus,audubonii,Audubon's cottontail rabbit,Lagomorpha,Leporidae,900,7.8,captivity,acceptable,671
+02604,Sylvilagus,floridanus,Eastern cottontail,Lagomorpha,Leporidae,1150,9.8,captivity,acceptable,"Steven Austad, pers. comm."
+02605,Sylvilagus,nuttallii,Mountain cottontail,Lagomorpha,Leporidae,760,7.4,captivity,acceptable,671
+02606,Sylvilagus,palustris,Marsh rabbit,Lagomorpha,Leporidae,1233,7.6,captivity,acceptable,671
+02607,Sylvilagus,transitionalis,New England cottontail,Lagomorpha,Leporidae,902.6,9.3,captivity,acceptable,671
+02609,Ochotona,hyperborea,Northern pika,Lagomorpha,Ochotonidae,120,9.4,captivity,acceptable,671
+02610,Ochotona,princeps,American pika,Lagomorpha,Ochotonidae,100,7,captivity,acceptable,671
+02614,Elephantulus,intufi,"Bushveld elephant shrew, or Long-eared elephant shrew",Macroscelidea,Macroscelididae,52,9.3,captivity,acceptable,671
+02615,Elephantulus,rozeti,North African elephant shrew,Macroscelidea,Macroscelididae,48,7.2,captivity,acceptable,671
+02616,Elephantulus,rufescens,Rufous elephant shrew,Macroscelidea,Macroscelididae,58,7.9,captivity,acceptable,671
+02617,Macroscelides,proboscideus,Short-eared elephant shrew,Macroscelidea,Macroscelididae,40,8.7,captivity,acceptable,671
+02619,Rhynchocyon,chrysopygus,Golden-rumped elephant shrew,Macroscelidea,Macroscelididae,540,11,captivity,acceptable,671
+02622,Ornithorhynchus,anatinus,Duck-billed platypus,Monotremata,Ornithorhynchidae,1250,22.6,captivity,acceptable,671
+02623,Tachyglossus,aculeatus,Short-beaked echidna,Monotremata,Tachyglossidae,3500,49.5,captivity,acceptable,671
+02624,Zaglossus,bruijni,"Western long-beaked echidna, or Long-nosed echidna",Monotremata,Tachyglossidae,7500,41.2,captivity,acceptable,671
+02627,Echymipera,rufescens,Long-nosed echymipera,Peramelemorphia,Peramelidae,1250,3.1,captivity,acceptable,671
+02628,Isoodon,auratus,Golden bandicoot,Peramelemorphia,Peramelidae,485,6.7,captivity,acceptable,671
+02629,Isoodon,macrourus,Northern brown bandicoot,Peramelemorphia,Peramelidae,1600,6.8,captivity,acceptable,671
+02630,Isoodon,obesulus,Southern brown bandicoot,Peramelemorphia,Peramelidae,700,6.5,captivity,acceptable,671
+02631,Perameles,bougainville,Western barred bandicoot,Peramelemorphia,Peramelidae,226,5.8,captivity,acceptable,671
+02632,Perameles,gunnii,Eastern barred bandicoot,Peramelemorphia,Peramelidae,766,6.1,captivity,acceptable,671
+02633,Perameles,nasuta,Long-nosed bandicoot,Peramelemorphia,Peramelidae,859,5.6,captivity,acceptable,671
+02635,Macrotis,lagotis,"Rabbit-bandicoot, or Bilby",Peramelemorphia,Thylacomyidae,1300,9.6,captivity,acceptable,671
+02636,Equus,asinus,African wild ass,Perissodactyla,Equidae,164998,47,captivity,high,671
+02637,Equus,caballus,Horse,Perissodactyla,Equidae,300000,57,captivity,high,"Richard Miller, pers. comm."
+02638,Equus,grevyi,Grevy's zebra,Perissodactyla,Equidae,384000,31,captivity,high,671
+02639,Equus,hemionus,Kulan,Perissodactyla,Equidae,230000,31.6,captivity,acceptable,671
+02640,Equus,kiang,Kiang,Perissodactyla,Equidae,275000,30.1,captivity,acceptable,671
+02641,Equus,quagga,Quagga,Perissodactyla,Equidae,280000,38,captivity,high,671
+02642,Equus,zebra,Mountain zebra,Perissodactyla,Equidae,296000,33.2,captivity,acceptable,671
+02643,Ceratotherium,simum,White rhinoceros,Perissodactyla,Rhinocerotidae,2175000,45,captivity,high,671
+02644,Dicerorhinus,sumatrensis,Sumatran rhinoceros,Perissodactyla,Rhinocerotidae,1260000,32.8,captivity,acceptable,671
+02645,Diceros,bicornis,Black rhinoceros,Perissodactyla,Rhinocerotidae,1100000,57,wild,acceptable,1380
+02647,Rhinoceros,unicornis,Indian rhinoceros,Perissodactyla,Rhinocerotidae,1602330,43.5,captivity,acceptable,671
+02648,Acrocodia,indica,Malayan tapir,Perissodactyla,Tapiridae,250000,36.5,captivity,acceptable,671
+02649,Tapirella,bairdii,Baird's tapir,Perissodactyla,Tapiridae,300000,29.6,captivity,acceptable,671
+02650,Tapirus,pinchaque,Mountain tapir,Perissodactyla,Tapiridae,148950,28.5,captivity,acceptable,671
+02651,Tapirus,terrestris,Brazilian tapir,Perissodactyla,Tapiridae,250000,39.6,captivity,high,"John Gramieri, pers. comm."
+02657,Choloepus,didactylus,Southern two-toed sloth,Pilosa,Megalonychidae,6250,36.8,captivity,acceptable,671
+02658,Choloepus,hoffmanni,Hoffmann's two-toed sloth,Pilosa,Megalonychidae,6250,41,captivity,acceptable,"John Gramieri, pers. comm."
+02659,Myrmecophaga,tridactyla,Giant anteater,Pilosa,Myrmecophagidae,28500,31,captivity,acceptable,671
+02660,Tamandua,mexicana,Northern tamandua,Pilosa,Myrmecophagidae,4500,16,captivity,acceptable,671
+02661,Tamandua,tetradactyla,Southern tamandua,Pilosa,Myrmecophagidae,4500,19,captivity,acceptable,671
+02663,Aotus,azarae,Azara's night monkey,Primates,Aotidae,1230,30,captivity,acceptable,774
+02664,Aotus,lemurinus,Lemurine night monkey,Primates,Aotidae,874,33.8,captivity,acceptable,671
+02665,Aotus,trivirgatus,Northern night monkey,Primates,Aotidae,800,30.1,captivity,acceptable,671
+02666,Aotus,vociferans,Noisy night monkey,Primates,Aotidae,873,22.1,captivity,acceptable,671
+02667,Alouatta,caraya,Black howler monkey,Primates,Atelidae,5462.5,32.4,captivity,acceptable,671
+02669,Alouatta,palliata,Mantled howler monkey,Primates,Atelidae,7000,24,captivity,acceptable,671
+02672,Alouatta,seniculus,Red howler monkey,Primates,Atelidae,6543.2,25,captivity,acceptable,671
+02673,Ateles,belzebuth,White-bellied spider monkey,Primates,Atelidae,7535,37,captivity,acceptable,671
+02674,Ateles,chamek,Chamek spider monkey,Primates,Atelidae,6000,42.8,captivity,acceptable,671
+02675,Ateles,fusciceps,Brown-headed spider monkey,Primates,Atelidae,7000,46,captivity,acceptable,671
+02676,Ateles,geoffroyi,Central American spider monkey,Primates,Atelidae,7267.5,47.1,captivity,acceptable,671
+02677,Ateles,marginatus,White-whiskered spider monkey,Primates,Atelidae,6000,44,captivity,acceptable,671
+02678,Ateles,paniscus,Black spider monkey,Primates,Atelidae,7887.5,46,captivity,acceptable,671
+02679,Brachyteles,arachnoides,"Southern muriqui, or Woolly spider monkey, or Muriqui",Primates,Atelidae,11170,40,wild,acceptable,1091
+02680,Lagothrix,lagothricha,Humboldt's woolly monkey,Primates,Atelidae,7650,32,captivity,acceptable,671
+02681,Callimico,goeldii,Goeldi's monkey,Primates,Callitrichidae,555,22.2,captivity,high,671
+02682,Callithrix,geoffroyi,Geoffroy's marmoset,Primates,Callitrichidae,342,17.6,captivity,acceptable,671
+02683,Callithrix,jacchus,White-tufted-ear marmoset,Primates,Callitrichidae,255.2,22.8,captivity,high,671
+02684,Callithrix,kuhlii,Wied's black-tufted-ear marmoset,Primates,Callitrichidae,342,20,captivity,acceptable,671
+02685,Callithrix,penicillata,Black-pencilled marmoset,Primates,Callitrichidae,307,15.4,captivity,acceptable,671
+02686,Cebuella,pygmaea,Pygmy marmoset,Primates,Callitrichidae,124,18.6,captivity,high,671
+02687,Leontocebus,fuscicollis,Saddlebacked tamarin,Primates,Callitrichidae,456.5,24.9,captivity,acceptable,671
+02688,Leontocebus,nigricollis,Black-mantled tamarin,Primates,Callitrichidae,519.2,20.2,captivity,acceptable,671
+02689,Leontopithecus,chrysomelas,Golden-headed lion tamarin,Primates,Callitrichidae,535,21.3,captivity,acceptable,671
+02691,Leontopithecus,rosalia,Golden lion tamarin,Primates,Callitrichidae,654.5,31.6,captivity,high,671
+02692,Mico,argentatus,Silvery marmoset,Primates,Callitrichidae,343.2,16.5,captivity,acceptable,671
+02693,Mico,humeralifer,Tassel-eared marmoset,Primates,Callitrichidae,355.8,15,captivity,acceptable,671
+02694,Saguinus,bicolor,Brazilian bare-faced tamarin,Primates,Callitrichidae,495.8,19,captivity,acceptable,671
+02695,Saguinus,geoffroyi,Geoffroy's tamarin,Primates,Callitrichidae,499.3,20.5,captivity,acceptable,671
+02696,Saguinus,imperator,Emperor tamarin,Primates,Callitrichidae,518.5,23.7,captivity,high,671
+02697,Saguinus,labiatus,Red-chested mustached tamarin,Primates,Callitrichidae,501.3,20.5,captivity,acceptable,671
+02698,Saguinus,leucopus,Silvery-brown bare-face tamarin,Primates,Callitrichidae,490,15.2,captivity,acceptable,671
+02699,Saguinus,midas,Midas tamarin,Primates,Callitrichidae,553.8,21,captivity,high,671
+02700,Saguinus,mystax,Black-chested mustached tamarin,Primates,Callitrichidae,543.5,20,captivity,acceptable,671
+02701,Saguinus,oedipus,Cotton-top tamarin,Primates,Callitrichidae,445.5,26.2,captivity,high,671
+02703,Cebus,albifrons,White-fronted capuchin,Primates,Cebidae,2467.5,40.4,captivity,acceptable,671
+02704,Cebus,capucinus,White-faced capuchin,Primates,Cebidae,2655,54,captivity,acceptable,671
+02705,Cebus,olivaceus,Weeping capuchin,Primates,Cebidae,2552.5,47,captivity,acceptable,671
+02706,Saimiri,boliviensis,Bolivian squirrel monkey,Primates,Cebidae,615,30.3,captivity,acceptable,671
+02708,Saimiri,sciureus,South American squirrel monkey,Primates,Cebidae,925,30.2,captivity,high,671
+02709,Sapajus,apella,Brown capuchin,Primates,Cebidae,2642.5,46,captivity,high,671
+02710,Allenopithecus,nigroviridis,Allen's swamp monkey,Primates,Cercopithecidae,4702.5,27,captivity,acceptable,671
+02711,Allochrocebus,lhoesti,L'hoest's monkey,Primates,Cercopithecidae,4700,24.1,captivity,acceptable,671
+02712,Allochrocebus,preussi,Preuss's monkey,Primates,Cercopithecidae,5250,26,captivity,acceptable,671
+02714,Cercocebus,agilis,Agile mangabey,Primates,Cercopithecidae,8000,31,captivity,acceptable,671
+02716,Cercocebus,torquatus,Red-capped mangabey,Primates,Cercopithecidae,9492.5,46,captivity,acceptable,671
+02717,Cercopithecus,ascanius,Black-cheeked white-nosed monkey,Primates,Cercopithecidae,3705,31.2,captivity,acceptable,671
+02718,Cercopithecus,campbelli,Campbell's monkey,Primates,Cercopithecidae,3600,30,captivity,acceptable,671
+02719,Cercopithecus,cephus,Moustached monkey,Primates,Cercopithecidae,3585,36,captivity,acceptable,671
+02720,Cercopithecus,diana,Diana monkey,Primates,Cercopithecidae,4550,35.1,captivity,acceptable,671
+02721,Cercopithecus,erythrogaster,Red-bellied monkey,Primates,Cercopithecidae,3250,24,captivity,acceptable,671
+02722,Cercopithecus,hamlyni,Owl-faced monkey,Primates,Cercopithecidae,4425,28.6,captivity,acceptable,671
+02723,Cercopithecus,mitis,Blue monkey,Primates,Cercopithecidae,9000,37.8,captivity,acceptable,671
+02724,Cercopithecus,mona,Mona monkey,Primates,Cercopithecidae,4500,30,captivity,acceptable,671
+02725,Cercopithecus,neglectus,De Brazza's monkey,Primates,Cercopithecidae,5945,30.8,captivity,acceptable,671
+02726,Cercopithecus,nictitans,White-nosed guenon,Primates,Cercopithecidae,5465,31,captivity,acceptable,671
+02727,Cercopithecus,petaurista,Lesser white-nosed monkey,Primates,Cercopithecidae,3650,29,captivity,acceptable,671
+02728,Cercopithecus,pogonias,Crowned guenon,Primates,Cercopithecidae,3580,27,captivity,acceptable,671
+02729,Cercopithecus,wolfi,Wolf's monkey,Primates,Cercopithecidae,3390,24,captivity,acceptable,"John Gramieri, pers. comm."
+02730,Chlorocebus,aethiops,"Grivet, or Vervet",Primates,Cercopithecidae,5620,32,captivity,acceptable,1355
+02731,Colobus,angolensis,Angolan colobus,Primates,Cercopithecidae,8625,35.3,captivity,acceptable,671
+02732,Colobus,guereza,Guereza,Primates,Cercopithecidae,9950,35,captivity,high,671
+02733,Colobus,polykomos,King colobus,Primates,Cercopithecidae,9525,33.9,captivity,acceptable,671
+02734,Erythrocebus,patas,Patas monkey,Primates,Cercopithecidae,7750,30,captivity,acceptable,1306
+02735,Lophocebus,albigena,Gray-cheeked mangabey,Primates,Cercopithecidae,9317.5,36,captivity,acceptable,671
+02736,Macaca,arctoides,Stump-tailed macaque,Primates,Cercopithecidae,9275,29.2,captivity,acceptable,671
+02737,Macaca,assamensis,Assam macaque,Primates,Cercopithecidae,9100,31.4,captivity,acceptable,671
+02738,Macaca,fascicularis,Long-tailed macaque,Primates,Cercopithecidae,6362.5,39,captivity,acceptable,671
+02739,Macaca,fuscata,Japanese macaque,Primates,Cercopithecidae,8882.5,38.5,captivity,high,671
+02740,Macaca,maura,Moor macaque,Primates,Cercopithecidae,5575,33,captivity,acceptable,671
+02741,Macaca,mulatta,Rhesus monkey,Primates,Cercopithecidae,8235,40,captivity,high,1074
+02742,Macaca,nemestrina,"Southern pig-tailed macaque, or Pigtail macaque",Primates,Cercopithecidae,7912.5,37.6,captivity,acceptable,671
+02743,Macaca,nigra,Celebes crested macaque,Primates,Cercopithecidae,7965,34,captivity,acceptable,671
+02744,Macaca,ochreata,Booted macaque,Primates,Cercopithecidae,3950,29,captivity,acceptable,671
+02745,Macaca,radiata,Bonnet macaque,Primates,Cercopithecidae,6755,30,captivity,acceptable,671
+02746,Macaca,silenus,Liontail macaque,Primates,Cercopithecidae,7875,40,captivity,high,671
+02747,Macaca,sinica,Toque macaque,Primates,Cercopithecidae,4370,29.3,captivity,acceptable,671
+02748,Macaca,sylvanus,Barbary macaque,Primates,Cercopithecidae,10875,30,captivity,high,1317
+02749,Macaca,thibetana,Tibetan macaque,Primates,Cercopithecidae,10300,27,captivity,acceptable,671
+02750,Macaca,tonkeana,Tonkean macaque,Primates,Cercopithecidae,11950,28.4,captivity,acceptable,671
+02751,Mandrillus,leucophaeus,Drill,Primates,Cercopithecidae,18250,39,captivity,acceptable,671
+02752,Mandrillus,sphinx,Mandrill,Primates,Cercopithecidae,23000,40,captivity,high,671
+02753,Miopithecus,talapoin,"Southern talapoin monkey, or Talapoin",Primates,Cercopithecidae,1384.5,27.7,captivity,acceptable,671
+02754,Nasalis,larvatus,Proboscis monkey,Primates,Cercopithecidae,14617.5,25.1,captivity,acceptable,671
+02755,Papio,hamadryas,Hamadryas baboon,Primates,Cercopithecidae,18000,37.5,captivity,high,671
+02757,Presbytis,melalophos,"Black-crested sumatran langur, or Mitred leaf monkey",Primates,Cercopithecidae,6540,20,captivity,acceptable,671
+02759,Pygathrix,nemaeus,"Red-shanked douc langur, or Douc langur",Primates,Cercopithecidae,9720,26,captivity,acceptable,671
+02761,Rhinopithecus,roxellana,Golden snub-nosed monkey,Primates,Cercopithecidae,14750,29.5,captivity,acceptable,671
+02762,Semnopithecus,entellus,Hanuman langur,Primates,Cercopithecidae,13516.5,29,captivity,acceptable,671
+02763,Semnopithecus,johnii,Hooded leaf monkey,Primates,Cercopithecidae,12000,34,captivity,acceptable,671
+02764,Semnopithecus,vetulus,Purple-faced leaf monkey,Primates,Cercopithecidae,7081.8,26.1,captivity,acceptable,671
+02765,Theropithecus,gelada,Gelada baboon,Primates,Cercopithecidae,16200,36,captivity,acceptable,671
+02766,Trachypithecus,auratus,Javan langur,Primates,Cercopithecidae,9720,31.1,captivity,acceptable,671
+02767,Trachypithecus,cristatus,Silvered leaf monkey,Primates,Cercopithecidae,6185,28.3,captivity,acceptable,671
+02768,Trachypithecus,francoisi,Francois's leaf monkey,Primates,Cercopithecidae,7325,26.3,captivity,acceptable,671
+02770,Trachypithecus,obscurus,Dusky leaf monkey,Primates,Cercopithecidae,7080,33.9,captivity,acceptable,671
+02771,Trachypithecus,phayrei,Phayre's leaf monkey,Primates,Cercopithecidae,8400,28.3,captivity,acceptable,671
+02772,Trachypithecus,pileatus,Capped leaf monkey,Primates,Cercopithecidae,11450,25.2,captivity,acceptable,671
+02774,Cheirogaleus,medius,Fat-tailed dwarf lemur,Primates,Cheirogaleidae,380,29,captivity,acceptable,1301
+02775,Microcebus,murinus,Gray mouse lemur,Primates,Cheirogaleidae,64.8,18.2,captivity,acceptable,671
+02777,Mirza,coquereli,Giant mouse lemur,Primates,Cheirogaleidae,311.2,17.4,captivity,acceptable,671
+02778,Phaner,furcifer,"Masoala fork-marked lemur, or Fork-marked lemur",Primates,Cheirogaleidae,400,25,captivity,acceptable,671
+02779,Daubentonia,madagascariensis,Aye-aye,Primates,Daubentoniidae,2277.5,32.3,captivity,acceptable,1301
+02781,Galago,moholi,South African galago,Primates,Galagidae,169.2,16.6,captivity,acceptable,671
+02782,Galago,senegalensis,Senegal galago,Primates,Galagidae,192.2,17.1,captivity,acceptable,671
+02783,Galagoides,demidoff,Demidoff's galago,Primates,Galagidae,60,13.4,captivity,acceptable,671
+02784,Otolemur,crassicaudatus,"Brown greater galago, or Greater galago",Primates,Galagidae,1094.5,22.7,captivity,acceptable,671
+02785,Otolemur,garnettii,Small-eared galago,Primates,Galagidae,1300,20,captivity,acceptable,1301
+02788,Gorilla,gorilla,Gorilla,Primates,Hominidae,139842,60.1,captivity,acceptable,1151
+02789,Homo,sapiens,Human,Primates,Hominidae,62035,122.5,captivity,high,29
+02790,Pan,paniscus,"Pygmy chimpanzee, or Bonobo",Primates,Hominidae,39925,55,captivity,acceptable,671
+02791,Pan,troglodytes,Chimpanzee,Primates,Hominidae,44983.5,68,captivity,acceptable,1324
+02792,Pongo,pygmaeus,Orangutan,Primates,Hominidae,64475,59,captivity,acceptable,671
+02793,Hoolock,hoolock,"Western hoolock gibbon, or Hoolock gibbon",Primates,Hylobatidae,6875,41,captivity,acceptable,671
+02794,Hylobates,agilis,Agile gibbon,Primates,Hylobatidae,5925,49,captivity,acceptable,671
+02795,Hylobates,klossii,Kloss's gibbon,Primates,Hylobatidae,5900,37,captivity,acceptable,671
+02796,Hylobates,lar,White-handed gibbon,Primates,Hylobatidae,6810,56,captivity,high,"John Gramieri, pers. comm."
+02797,Hylobates,moloch,Silvery gibbon,Primates,Hylobatidae,6207.5,45,captivity,acceptable,671
+02798,Hylobates,muelleri,Borneo gibbon,Primates,Hylobatidae,5765,60,captivity,acceptable,1079
+02799,Hylobates,pileatus,Pileated gibbon,Primates,Hylobatidae,5735,38,captivity,acceptable,671
+02800,Nomascus,concolor,Crested gibbon,Primates,Hylobatidae,6852.5,46.1,captivity,acceptable,671
+02801,Nomascus,leucogenys,"Northern white-cheeked gibbon, or White-cheeked gibbon",Primates,Hylobatidae,6000,44.1,captivity,acceptable,671
+02802,Symphalangus,syndactylus,Siamang,Primates,Hylobatidae,10900,43,captivity,acceptable,671
+02805,Propithecus,verreauxi,Verreaux's sifaka,Primates,Indriidae,5000,31,wild,acceptable,1091
+02806,Eulemur,coronatus,Crowned lemur,Primates,Lemuridae,1645,27,captivity,acceptable,671
+02807,Eulemur,fulvus,Brown lemur,Primates,Lemuridae,2485,35.5,captivity,acceptable,671
+02808,Eulemur,macaco,Black lemur,Primates,Lemuridae,2467,37.5,captivity,acceptable,"Thomas Brockmann, pers. comm."
+02809,Eulemur,mongoz,Mongoose lemur,Primates,Lemuridae,1555,36.2,captivity,acceptable,671
+02810,Eulemur,rubriventer,Red-bellied lemur,Primates,Lemuridae,2191.5,31.7,captivity,acceptable,1301
+02812,Hapalemur,griseus,"Gray bamboo lemur, or Bamboo lemur",Primates,Lemuridae,1012.5,23.3,captivity,acceptable,671
+02813,Lemur,catta,Ring-tailed lemur,Primates,Lemuridae,2555,37.3,captivity,high,671
+02814,Prolemur,simus,Greater bamboo lemur,Primates,Lemuridae,1737.5,17.6,captivity,acceptable,671
+02815,Varecia,rubra,Red ruffed lemur,Primates,Lemuridae,3601.3,37.5,captivity,acceptable,1301
+02816,Varecia,variegata,"Black-and-white ruffed lemur, or Ruffed lemur",Primates,Lemuridae,3482.3,40,captivity,high,1350
+02819,Arctocebus,calabarensis,Calabar angwantibo,Primates,Lorisidae,257.5,13,captivity,acceptable,671
+02820,Loris,tardigradus,"Red slender loris, or Slender loris",Primates,Lorisidae,238.2,21.6,captivity,acceptable,1301
+02821,Nycticebus,coucang,Slow loris,Primates,Lorisidae,890.5,25.8,captivity,acceptable,671
+02822,Nycticebus,pygmaeus,Pygmy slow loris,Primates,Lorisidae,419,19.3,captivity,acceptable,1301
+02823,Perodicticus,potto,Potto,Primates,Lorisidae,919.9,32.4,captivity,acceptable,1301
+02824,Cacajao,calvus,"Bald uacari, or Red uakari",Primates,Pitheciidae,3165,35.8,captivity,acceptable,671
+02826,Chiropotes,albinasus,White-nosed bearded saki,Primates,Pitheciidae,2910,20,captivity,acceptable,671
+02827,Chiropotes,satanas,Brown-bearded saki,Primates,Pitheciidae,2942.5,19.6,captivity,acceptable,671
+02830,Pithecia,monachus,Monk saki,Primates,Pitheciidae,1780,25,captivity,acceptable,671
+02831,Pithecia,pithecia,Guianan saki,Primates,Pitheciidae,1480,36,captivity,high,671
+02832,Plecturocebus,cupreus,Coppery titi,Primates,Pitheciidae,1120,26.4,captivity,acceptable,671
+02833,Plecturocebus,donacophilus,Bolivian titi,Primates,Pitheciidae,795,25,captivity,acceptable,671
+02834,Plecturocebus,moloch,Dusky titi,Primates,Pitheciidae,804,26.2,captivity,acceptable,671
+02835,Carlito,syrichta,Philippine tarsier,Primates,Tarsiidae,119.2,16,captivity,acceptable,671
+02836,Cephalopachus,bancanus,Western tarsier,Primates,Tarsiidae,122.5,16.3,captivity,acceptable,671
+02838,Elephas,maximus,Asiatic elephant,Proboscidea,Elephantidae,3178000,79.6,captivity,acceptable,1192
+02839,Loxodonta,africana,African bush elephant,Proboscidea,Elephantidae,4800000,65,captivity,acceptable,671
+02840,Abrocoma,bennettii,Bennett's chinchilla rat,Rodentia,Abrocomidae,265.5,2.3,captivity,acceptable,671
+02842,Cryptomys,anselli,Ansell's mole-rat,Rodentia,Bathyergidae,90,20.6,captivity,acceptable,"Philip Dammann and Hynek Burda, pers. comm."
+02843,Cryptomys,damarensis,Damaraland mole-rat,Rodentia,Bathyergidae,180,15.5,captivity,acceptable,"Bruce Goldman, pers. comm."
+02848,Heterocephalus,glaber,Naked mole-rat,Rodentia,Bathyergidae,35,31,captivity,high,"Rochelle Buffenstein, pers. comm."
+02849,Calomyscus,bailwardi,Mouse-like hamster,Rodentia,Calomyscidae,20.4,9.4,captivity,acceptable,671
+02851,Capromys,pilorides,Desmarest's hutia,Rodentia,Capromyidae,4683.3,13.8,captivity,acceptable,671
+02852,Geocapromys,brownii,Brown's hutia,Rodentia,Capromyidae,1500,13.5,captivity,acceptable,671
+02854,Plagiodontia,aedium,Hispaniolan hutia,Rodentia,Capromyidae,1267,15.9,captivity,acceptable,671
+02855,Castor,canadensis,American beaver,Rodentia,Castoridae,20250,23.4,captivity,acceptable,671
+02857,Cavia,aperea,Brazilian guinea pig,Rodentia,Caviidae,341,6,captivity,high,671
+02858,Cavia,porcellus,Guinea pig,Rodentia,Caviidae,728,12,captivity,high,"J. Veronica Kiklevich, pers. comm."
+02859,Cavia,tschudii,Montane guinea pig,Rodentia,Caviidae,637.5,6.3,captivity,acceptable,671
+02860,Dolichotis,patagonum,Patagonian mara,Rodentia,Caviidae,12500,14.4,captivity,high,671
+02861,Galea,musteloides,Common yellow-toothed cavy,Rodentia,Caviidae,337.9,3.5,captivity,acceptable,671
+02862,Galea,spixii,Spix's yellow-toothed cavy,Rodentia,Caviidae,450,4.6,captivity,acceptable,671
+02863,Hydrochoerus,hydrochaeris,Capybara,Rodentia,Caviidae,55000,15.1,captivity,high,671
+02864,Kerodon,rupestris,Rock cavy,Rodentia,Caviidae,950,12.9,captivity,acceptable,671
+02865,Chinchilla,lanigera,Long-tailed chinchilla,Rodentia,Chinchillidae,642.5,17.2,captivity,acceptable,671
+02867,Lagidium,viscacia,Mountain viscacha,Rodentia,Chinchillidae,1540,19.5,captivity,acceptable,671
+02868,Lagostomus,maximus,Plains viscacha,Rodentia,Chinchillidae,6000,10.8,captivity,acceptable,671
+02870,Alticola,semicanus,Mongolian silver vole,Rodentia,Cricetidae,36,3.8,captivity,acceptable,671
+02872,Arvicola,amphibius,European water vole,Rodentia,Cricetidae,120,2.5,captivity,acceptable,671
+02873,Baiomys,taylori,Northern pygmy mouse,Rodentia,Cricetidae,8,3.3,captivity,acceptable,637
+02875,Cricetus,cricetus,Black-bellied hamster,Rodentia,Cricetidae,506.7,3.6,captivity,acceptable,671
+02876,Dicrostonyx,groenlandicus,Collared lemming,Rodentia,Cricetidae,66,3.3,unknown,acceptable,434
+02880,Ellobius,talpinus,Northern mole vole,Rodentia,Cricetidae,40,6.4,captivity,acceptable,1411
+02881,Lagurus,lagurus,Steppe lemming,Rodentia,Cricetidae,20.3,3.8,captivity,acceptable,671
+02882,Lasiopodomys,brandtii,Brandt's vole,Rodentia,Cricetidae,40,4.1,captivity,acceptable,671
+02883,Lemmus,lemmus,Norway lemming,Rodentia,Cricetidae,70,3.3,captivity,acceptable,671
+02884,Lophiomys,imhausi,Crested rat,Rodentia,Cricetidae,755,7.5,captivity,acceptable,671
+02885,Mesocricetus,auratus,Golden hamster,Rodentia,Cricetidae,105,3.9,captivity,acceptable,671
+02886,Mesocricetus,brandti,Brandt's hamster,Rodentia,Cricetidae,174,4.4,unknown,acceptable,475
+02887,Microtus,agrestis,Field vole,Rodentia,Cricetidae,46,4.8,captivity,acceptable,671
+02888,Microtus,arvalis,Common vole,Rodentia,Cricetidae,27.5,4.8,captivity,acceptable,671
+02890,Microtus,guentheri,Guenther's vole,Rodentia,Cricetidae,51.6,3.9,captivity,acceptable,671
+02892,Microtus,ochrogaster,Prairie vole,Rodentia,Cricetidae,40,5.3,captivity,acceptable,671
+02895,Microtus,pinetorum,Woodland vole,Rodentia,Cricetidae,25.5,3.8,captivity,acceptable,671
+02898,Myodes,glareolus,Bank vole,Rodentia,Cricetidae,20.8,4.9,captivity,acceptable,671
+02900,Myodes,rutilus,Northern red-backed vole,Rodentia,Cricetidae,20,2.1,captivity,acceptable,1425
+02902,Neotoma,albigula,White-throated woodrat,Rodentia,Cricetidae,209,9.5,captivity,acceptable,671
+02904,Neotoma,floridana,Eastern woodrat,Rodentia,Cricetidae,291,8.6,captivity,acceptable,671
+02905,Neotoma,lepida,Desert woodrat,Rodentia,Cricetidae,236,10.5,captivity,acceptable,671
+02907,Nyctomys,sumichrasti,Vesper rat,Rodentia,Cricetidae,50,5.7,captivity,acceptable,671
+02908,Ochrotomys,nuttalli,Golden mouse,Rodentia,Cricetidae,22,8.4,captivity,acceptable,671
+02910,Onychomys,leucogaster,Northern grasshopper mouse,Rodentia,Cricetidae,32.5,5.6,captivity,acceptable,671
+02911,Onychomys,torridus,Southern grasshopper mouse,Rodentia,Cricetidae,22,4.6,captivity,acceptable,671
+02912,Peromyscus,californicus,California mouse,Rodentia,Cricetidae,42,5.5,captivity,acceptable,671
+02913,Peromyscus,crinitus,Canyon mouse,Rodentia,Cricetidae,16.5,7.7,captivity,acceptable,647
+02914,Peromyscus,eremicus,Cactus mouse,Rodentia,Cricetidae,25,7.4,captivity,acceptable,671
+02915,Peromyscus,guatemalensis,Guatemalan deer mouse,Rodentia,Cricetidae,40,5.7,captivity,acceptable,671
+02916,Peromyscus,leucopus,White-footed mouse,Rodentia,Cricetidae,23,7.9,captivity,acceptable,671
+02917,Peromyscus,maniculatus,Deer mouse,Rodentia,Cricetidae,20.5,8.3,captivity,acceptable,434
+02918,Peromyscus,polionotus,Oldfield mouse,Rodentia,Cricetidae,14,5.5,captivity,acceptable,671
+02919,Peromyscus,truei,Pinyon mouse,Rodentia,Cricetidae,25,5.4,captivity,acceptable,671
+02923,Phodopus,sungorus,Dzhungarian hamster,Rodentia,Cricetidae,23.4,3.9,captivity,acceptable,671
+02925,Podomys,floridanus,Florida mouse,Rodentia,Cricetidae,32,7.4,captivity,acceptable,434
+02926,Reithrodon,auritus,"Bunny, or Coney rat",Rodentia,Cricetidae,72.2,5.5,captivity,acceptable,671
+02931,Sigmodon,hispidus,Hispid cotton rat,Rodentia,Cricetidae,185,5.2,captivity,acceptable,671
+02934,Tylomys,nudicaudus,Peters's climbing rat,Rodentia,Cricetidae,280,5.4,captivity,acceptable,671
+02936,Ctenodactylus,gundi,Gundi,Rodentia,Ctenodactylidae,288.8,5.8,captivity,acceptable,671
+02940,Cuniculus,paca,Lowland paca,Rodentia,Cuniculidae,9000,16.3,captivity,acceptable,671
+02941,Cuniculus,taczanowskii,Mountain paca,Rodentia,Cuniculidae,8999.9,18.9,captivity,acceptable,671
+02942,Dasyprocta,azarae,Azara's agouti,Rodentia,Dasyproctidae,2650,11.8,captivity,acceptable,671
+02943,Dasyprocta,cristata,Crested agouti,Rodentia,Dasyproctidae,2650,14,captivity,acceptable,671
+02944,Dasyprocta,fuliginosa,Black agouti,Rodentia,Dasyproctidae,3500,18,captivity,acceptable,671
+02945,Dasyprocta,leporina,"Red-rumped agouti, or Agouti",Rodentia,Dasyproctidae,3265,17.8,captivity,high,671
+02946,Dasyprocta,mexicana,Mexican agouti,Rodentia,Dasyproctidae,2700,13.1,captivity,acceptable,671
+02947,Dasyprocta,prymnolopha,Black-rumped agouti,Rodentia,Dasyproctidae,2900,16.3,captivity,acceptable,671
+02948,Dasyprocta,punctata,Central American agouti,Rodentia,Dasyproctidae,2150,13.8,captivity,acceptable,671
+02950,Myoprocta,acouchy,Red acouchi,Rodentia,Dasyproctidae,775,14.8,captivity,acceptable,671
+02951,Dinomys,branickii,Pacarana,Rodentia,Dinomyidae,12250,12.8,captivity,acceptable,671
+02952,Allactaga,elater,Small five-toed jerboa,Rodentia,Dipodidae,58.7,5.2,captivity,acceptable,671
+02953,Allactaga,euphratica,Euphrates jerboa,Rodentia,Dipodidae,232,4.2,captivity,acceptable,671
+02954,Allactaga,major,Great jerboa,Rodentia,Dipodidae,350,7,captivity,acceptable,671
+02955,Allactaga,sibirica,Mongolian five-toed jerboa,Rodentia,Dipodidae,117.5,4.5,captivity,acceptable,671
+02956,Jaculus,jaculus,Lesser Egyptian jerboa,Rodentia,Dipodidae,55,7.3,captivity,acceptable,671
+02957,Jaculus,orientalis,Greater Egyptian jerboa,Rodentia,Dipodidae,134,5.5,captivity,acceptable,671
+02960,Zapus,hudsonius,Meadow jumping mouse,Rodentia,Dipodidae,18,5.6,captivity,acceptable,671
+02962,Hoplomys,gymnurus,Armored rat,Rodentia,Echimyidae,504,7,captivity,acceptable,671
+02964,Proechimys,brevicauda,"Andean spiny rat, or Short-tailed spiny-rat",Rodentia,Echimyidae,285,6.8,captivity,acceptable,671
+02967,Proechimys,semispinosus,"Tome's spiny rat, or Spiny rat",Rodentia,Echimyidae,500,5.8,captivity,acceptable,671
+02968,Thrichomys,apereoides,"Common punare, or Brazilian spiny rat",Rodentia,Echimyidae,373.5,7,captivity,acceptable,671
+02969,Coendou,prehensilis,Prehensile-tailed porcupine,Rodentia,Erethizontidae,3900,26.6,captivity,acceptable,671
+02970,Erethizon,dorsatus,North American porcupine,Rodentia,Erethizontidae,8600,23.4,captivity,acceptable,671
+02971,Sphiggurus,mexicanus,Mexican hairy dwarf porcupine,Rodentia,Erethizontidae,2000,16.7,captivity,acceptable,671
+02974,Geomys,bursarius,Plains pocket gopher,Rodentia,Geomyidae,176.7,12,captivity,acceptable,671
+02976,Thomomys,bottae,Botta's pocket gopher,Rodentia,Geomyidae,115.5,6.1,captivity,acceptable,671
+02979,Dryomys,nitedula,Forest dormouse,Rodentia,Gliridae,26,4.1,captivity,acceptable,671
+02980,Eliomys,melanurus,Asian garden dormouse,Rodentia,Gliridae,122.5,6.2,captivity,acceptable,671
+02981,Eliomys,quercinus,Garden dormouse,Rodentia,Gliridae,82.5,5.5,captivity,acceptable,671
+02982,Glirulus,japonicus,Japanese dormouse,Rodentia,Gliridae,27,7,captivity,acceptable,671
+02983,Glis,glis,Fat dormouse,Rodentia,Gliridae,125,8.7,captivity,acceptable,671
+02984,Graphiurus,murinus,Woodland dormouse,Rodentia,Gliridae,24,6.9,captivity,acceptable,671
+02985,Graphiurus,platyops,Rock dormouse,Rodentia,Gliridae,46.1,7.3,captivity,acceptable,671
+02986,Muscardinus,avellanarius,Hazel dormouse,Rodentia,Gliridae,27.3,5.3,captivity,acceptable,671
+02987,Chaetodipus,fallax,San Diego pocket mouse,Rodentia,Heteromyidae,18.7,8.3,captivity,acceptable,671
+02988,Chaetodipus,formosus,Long-tailed pocket mouse,Rodentia,Heteromyidae,19,7.1,captivity,acceptable,647
+02991,Dipodomys,deserti,Desert kangaroo rat,Rodentia,Heteromyidae,116,8.6,captivity,acceptable,671
+02992,Dipodomys,heermanni,Heermann's kangaroo rat,Rodentia,Heteromyidae,65,8.3,captivity,acceptable,671
+02993,Dipodomys,merriami,Merriam's kangaroo rat,Rodentia,Heteromyidae,42,9.7,captivity,acceptable,671
+02995,Dipodomys,ordii,Ord's kangaroo rat,Rodentia,Heteromyidae,57,9.9,captivity,acceptable,671
+02996,Dipodomys,spectabilis,Banner-tailed kangaroo rat,Rodentia,Heteromyidae,145,12.7,captivity,acceptable,671
+02999,Perognathus,amplus,Arizona pocket mouse,Rodentia,Heteromyidae,11.7,5.9,captivity,acceptable,671
+03002,Perognathus,longimembris,Little pocket mouse,Rodentia,Heteromyidae,8,8.3,captivity,acceptable,434
+03004,Perognathus,parvus,Great Basin pocket mouse,Rodentia,Heteromyidae,20.1,5.8,captivity,acceptable,671
+03005,Atherurus,africanus,African brush-tailed porcupine,Rodentia,Hystricidae,2750,22.9,captivity,acceptable,671
+03007,Hystrix,africaeaustralis,Cape porcupine,Rodentia,Hystricidae,24000,23.1,captivity,acceptable,671
+03008,Hystrix,brachyura,Malayan porcupine,Rodentia,Hystricidae,8000,27.3,captivity,acceptable,671
+03009,Hystrix,cristata,African porcupine,Rodentia,Hystricidae,20000,28,captivity,acceptable,671
+03010,Hystrix,indica,Indian crested porcupine,Rodentia,Hystricidae,20000,27.1,captivity,acceptable,671
+03014,Acomys,cahirinus,Spiny mouse,Rodentia,Muridae,45.2,5.9,captivity,high,671
+03018,Acomys,wilsoni,Wilson's spiny mouse,Rodentia,Muridae,20,5.6,captivity,acceptable,671
+03020,Apodemus,argenteus,Small Japanese field mouse,Rodentia,Muridae,23.4,5,captivity,acceptable,671
+03021,Apodemus,flavicollis,Yellow-necked mouse,Rodentia,Muridae,29.4,4.5,captivity,acceptable,671
+03022,Apodemus,peninsulae,Korean field mouse,Rodentia,Muridae,32.9,4.4,captivity,acceptable,671
+03023,Apodemus,speciosus,Large Japanese field mouse,Rodentia,Muridae,44,5.3,captivity,acceptable,671
+03024,Apodemus,sylvaticus,Long-tailed field mouse,Rodentia,Muridae,23.4,6.3,captivity,acceptable,671
+03025,Arvicanthis,niloticus,Nile kusu,Rodentia,Muridae,110,6.7,captivity,acceptable,671
+03026,Chiropodomys,gliroides,Pencil-tailed tree mouse,Rodentia,Muridae,29,3.6,captivity,acceptable,671
+03028,Conilurus,penicillatus,Brush-tailed rabbit rat,Rodentia,Muridae,144,4.5,captivity,acceptable,671
+03031,Desmodillus,auricularis,Cape short-eared gerbil,Rodentia,Muridae,54.5,6.1,captivity,acceptable,671
+03032,Dipodillus,campestris,North African gerbil,Rodentia,Muridae,28.4,7.3,captivity,acceptable,671
+03033,Gerbilliscus,afra,Cape gerbil,Rodentia,Muridae,74.8,5.7,captivity,acceptable,671
+03034,Gerbilliscus,validus,Southern savanna gerbil,Rodentia,Muridae,113,5,captivity,acceptable,671
+03035,Gerbillus,gerbillus,Lesser Egyptian gerbil,Rodentia,Muridae,30,5.9,captivity,acceptable,671
+03037,Gerbillus,perpallidus,Pale gerbil,Rodentia,Muridae,50,5.5,captivity,acceptable,671
+03038,Gerbillus,pyramidum,Greater Egyptian gerbil,Rodentia,Muridae,37,8.2,captivity,acceptable,671
+03039,Grammomys,dolichurus,Woodland mouse,Rodentia,Muridae,60,4.4,captivity,acceptable,671
+03040,Hydromys,chrysogaster,Golden-bellied water rat,Rodentia,Muridae,850,7.3,captivity,acceptable,671
+03041,Lemniscomys,barbarus,Barbary striped grass mouse,Rodentia,Muridae,26.2,4.4,captivity,acceptable,671
+03042,Lemniscomys,striatus,Typical striped grass mouse,Rodentia,Muridae,42.3,4.8,captivity,acceptable,671
+03044,Leporillus,conditor,Greater stick-nest rat,Rodentia,Muridae,332.5,5.3,captivity,acceptable,671
+03046,Meriones,crassus,Sundevall's jird,Rodentia,Muridae,35,5.6,captivity,acceptable,671
+03047,Meriones,libycus,Libyan jird,Rodentia,Muridae,100,5.2,captivity,acceptable,671
+03048,Meriones,meridianus,Mid-day jird,Rodentia,Muridae,53,6.8,captivity,acceptable,671
+03049,Meriones,persicus,Persian jird,Rodentia,Muridae,100,6,captivity,acceptable,671
+03052,Meriones,unguiculatus,Mongolian jird,Rodentia,Muridae,53.2,6.3,captivity,acceptable,671
+03053,Meriones,vinogradovi,Vinogradov's jird,Rodentia,Muridae,150,6.7,captivity,acceptable,671
+03054,Mesembriomys,gouldii,Black-footed tree rat,Rodentia,Muridae,900,7.8,captivity,acceptable,671
+03055,Mesembriomys,macrurus,Golden-backed tree rat,Rodentia,Muridae,268.5,7.1,captivity,acceptable,671
+03056,Micaelamys,namaquensis,"Namaqua rock rat, or Rock mouse",Rodentia,Muridae,47.6,4.7,captivity,acceptable,671
+03057,Micromys,minutus,Old World harvest mouse,Rodentia,Muridae,6,3.8,captivity,acceptable,671
+03058,Millardia,gleadowi,Sand-colored rat,Rodentia,Muridae,70,4,captivity,acceptable,671
+03061,Mus,minutoides,"Southern African pygmy mouse, or Pygmy mouse",Rodentia,Muridae,7.2,4.3,captivity,acceptable,671
+03063,Mus,musculus,House mouse,Rodentia,Muridae,20.5,4,captivity,high,506
+03064,Mus,spicilegus,Mound-building mouse,Rodentia,Muridae,19.9,3.5,captivity,acceptable,671
+03065,Notomys,alexis,Spinifex hopping mouse,Rodentia,Muridae,35,6.4,captivity,acceptable,671
+03067,Notomys,mitchellii,Mitchell's hopping mouse,Rodentia,Muridae,52,5.3,captivity,acceptable,671
+03069,Pachyuromys,duprasi,Fat-tailed gerbil,Rodentia,Muridae,40,8.3,captivity,acceptable,671
+03070,Phloeomys,cumingi,Slender-tailed cloud rat,Rodentia,Muridae,1750,13.6,captivity,acceptable,671
+03071,Phloeomys,pallidus,Northern Luzon slender-tailed cloud rat,Rodentia,Muridae,1744,10.7,captivity,acceptable,671
+03072,Pogonomys,macrourus,"Chestnut pogonomys, or Long-tailed tree mouse",Rodentia,Muridae,57,3.1,captivity,acceptable,671
+03073,Praomys,tullbergi,"Tullberg's praomys, or Tullberg's rock rat",Rodentia,Muridae,30,5.2,captivity,acceptable,671
+03074,Psammomys,obesus,Fat sand rat,Rodentia,Muridae,212,3.2,captivity,acceptable,671
+03075,Pseudomys,australis,"Plains mouse, or Australian native mouse",Rodentia,Muridae,65,7.9,captivity,acceptable,671
+03076,Pseudomys,chapmani,Western pebble-mound mouse,Rodentia,Muridae,12,6.8,captivity,acceptable,671
+03077,Pseudomys,fumeus,Smoky mouse,Rodentia,Muridae,70,6.5,captivity,acceptable,671
+03079,Pseudomys,laborifex,Kimberly mouse,Rodentia,Muridae,12,6.9,captivity,acceptable,671
+03080,Pseudomys,shortridgei,Heath mouse,Rodentia,Muridae,64,6,captivity,acceptable,671
+03081,Rattus,fuscipes,Bush rat,Rodentia,Muridae,130,5.3,captivity,acceptable,616
+03082,Rattus,lutreolus,Australian swamp rat,Rodentia,Muridae,115,4.4,captivity,acceptable,671
+03083,Rattus,norvegicus,Norway rat,Rodentia,Muridae,300,3.8,captivity,acceptable,857
+03084,Rattus,rattus,Rat,Rodentia,Muridae,200,4.2,captivity,acceptable,671
+03085,Rhabdomys,pumilio,Four-striped grass mouse,Rodentia,Muridae,51,4.5,captivity,acceptable,671
+03086,Rhombomys,opimus,Great gerbil,Rodentia,Muridae,285,4.5,captivity,acceptable,671
+03087,Sekeetamys,calurus,Bushy-tailed jird,Rodentia,Muridae,65,7.3,captivity,acceptable,671
+03089,Tatera,indica,Indian gerbil,Rodentia,Muridae,146.7,7,captivity,acceptable,671
+03095,Zyzomys,palatilis,Carpentarian rock rat,Rodentia,Muridae,123,6.2,captivity,acceptable,671
+03096,Zyzomys,pedunculatus,Central rock rat,Rodentia,Muridae,100,7.5,captivity,acceptable,671
+03097,Myocastor,coypus,Nutria,Rodentia,Myocastoridae,7850,19,captivity,acceptable,1306
+03098,Cricetomys,emini,Giant rat,Rodentia,Nesomyidae,1300,7.4,captivity,acceptable,671
+03099,Cricetomys,gambianus,Gambian rat,Rodentia,Nesomyidae,1500,8.4,captivity,acceptable,671
+03100,Dendromus,melanotis,Gray climbing mouse,Rodentia,Nesomyidae,7.4,4.2,captivity,acceptable,671
+03101,Dendromus,mesomelas,Brant's climbing mouse,Rodentia,Nesomyidae,13,3.3,captivity,acceptable,671
+03102,Hypogeomys,antimena,Malagasy giant rat,Rodentia,Nesomyidae,1250,12.6,captivity,acceptable,671
+03103,Mystromys,albicaudatus,White-tailed mouse,Rodentia,Nesomyidae,106,6.3,captivity,acceptable,671
+03104,Saccostomus,campestris,Pouched mouse,Rodentia,Nesomyidae,47.4,4.5,captivity,acceptable,671
+03106,Octodon,degus,Degu,Rodentia,Octodontidae,235,14,captivity,acceptable,671
+03108,Spalacopus,cyanus,Coruro,Rodentia,Octodontidae,98,10.8,captivity,acceptable,671
+03109,Pedetes,capensis,"South African springhare, or Springhare",Rodentia,Pedetidae,3500,20,captivity,acceptable,671
+03112,Ammospermophilus,harrisii,Harris's antelope squirrel,Rodentia,Sciuridae,126,10.6,captivity,acceptable,671
+03113,Ammospermophilus,leucurus,White-tailed antelope squirrel,Rodentia,Sciuridae,105,11.2,captivity,acceptable,671
+03117,Callosciurus,caniceps,Gray-bellied squirrel,Rodentia,Sciuridae,257,13.7,captivity,acceptable,671
+03118,Callosciurus,erythraeus,Pallas's squirrel,Rodentia,Sciuridae,272,17,captivity,acceptable,671
+03120,Callosciurus,notatus,Plantain squirrel,Rodentia,Sciuridae,190,14.8,captivity,acceptable,671
+03121,Callosciurus,prevostii,Prevost's squirrel,Rodentia,Sciuridae,400,21.1,captivity,acceptable,671
+03122,Callospermophilus,lateralis,Golden-mantled ground squirrel,Rodentia,Sciuridae,157.6,10.4,captivity,acceptable,671
+03125,Cynomys,ludovicianus,Black-tailed prairie dog,Rodentia,Sciuridae,1125,15,captivity,acceptable,1306
+03129,Funisciurus,anerythrus,Thomas's rope squirrel,Rodentia,Sciuridae,218,10,captivity,acceptable,671
+03131,Funisciurus,pyrropus,Fire-footed rope squirrel,Rodentia,Sciuridae,271.7,9.5,captivity,acceptable,671
+03133,Glaucomys,sabrinus,Northern flying squirrel,Rodentia,Sciuridae,149,14.2,captivity,acceptable,671
+03134,Glaucomys,volans,Southern flying squirrel,Rodentia,Sciuridae,65.4,19,captivity,acceptable,671
+03135,Heliosciurus,rufobrachium,Red-legged sun squirrel,Rodentia,Sciuridae,326.5,8.7,captivity,acceptable,671
+03136,Ictidomys,tridecemlineatus,Thirteen-lined ground squirrel,Rodentia,Sciuridae,172.7,7.9,captivity,acceptable,671
+03140,Marmota,flaviventris,Yellow-bellied marmot,Rodentia,Sciuridae,3500,21.2,captivity,acceptable,671
+03141,Marmota,marmota,Alpine marmot,Rodentia,Sciuridae,3500,17.4,captivity,acceptable,671
+03142,Marmota,monax,Woodchuck,Rodentia,Sciuridae,4000,14,captivity,acceptable,671
+03143,Marmota,vancouverensis,Vancouver marmot,Rodentia,Sciuridae,4750,12.1,captivity,acceptable,671
+03144,Otospermophilus,variegatus,Rock squirrel,Rodentia,Sciuridae,663,9.8,captivity,acceptable,671
+03147,Petaurista,alborufus,Red and white giant flying squirrel,Rodentia,Sciuridae,1700,21.4,captivity,acceptable,671
+03148,Petaurista,leucogenys,Japanese giant flying squirrel,Rodentia,Sciuridae,1650,19.2,captivity,acceptable,671
+03152,Poliocitellus,franklinii,Franklin's ground squirrel,Rodentia,Sciuridae,459,7.2,captivity,acceptable,671
+03154,Pteromys,volans,Siberian flying squirrel,Rodentia,Sciuridae,130,11.4,captivity,acceptable,671
+03156,Ratufa,bicolor,Black giant squirrel,Rodentia,Sciuridae,2000,19,captivity,acceptable,671
+03157,Ratufa,indica,Indian giant squirrel,Rodentia,Sciuridae,2000,20,captivity,acceptable,671
+03161,Sciurus,aureogaster,Red-bellied squirrel,Rodentia,Sciuridae,600,11.5,captivity,acceptable,671
+03162,Sciurus,carolinensis,Eastern gray squirrel,Rodentia,Sciuridae,533,23.6,captivity,acceptable,671
+03164,Sciurus,granatensis,Red-tailed squirrel,Rodentia,Sciuridae,374,11.5,captivity,acceptable,671
+03168,Sciurus,niger,Eastern fox squirrel,Rodentia,Sciuridae,800,16,captivity,acceptable,671
+03170,Sciurus,variegatoides,Variegated squirrel,Rodentia,Sciuridae,485,15.1,captivity,acceptable,671
+03171,Sciurus,vulgaris,Eurasian red squirrel,Rodentia,Sciuridae,600,14.8,captivity,acceptable,671
+03172,Spermophilus,citellus,European ground squirrel,Rodentia,Sciuridae,217,6.7,captivity,acceptable,671
+03173,Spermophilus,pygmaeus,Little ground squirrel,Rodentia,Sciuridae,136,7.1,captivity,acceptable,671
+03174,Sundasciurus,hippurus,Horse-tailed squirrel,Rodentia,Sciuridae,312.5,14,captivity,acceptable,671
+03175,Sundasciurus,lowii,Low's squirrel,Rodentia,Sciuridae,67,11.1,captivity,acceptable,671
+03176,Sundasciurus,tenuis,Slender squirrel,Rodentia,Sciuridae,75,10,captivity,acceptable,671
+03178,Tamias,dorsalis,Cliff chipmunk,Rodentia,Sciuridae,62.8,12.6,captivity,acceptable,671
+03179,Tamias,minimus,Least chipmunk,Rodentia,Sciuridae,44.1,10,captivity,acceptable,671
+03183,Tamias,sibiricus,Siberian chipmunk,Rodentia,Sciuridae,85,9.6,captivity,acceptable,671
+03184,Tamias,striatus,Eastern chipmunk,Rodentia,Sciuridae,96,9.5,captivity,acceptable,671
+03185,Tamias,townsendii,Townsend's chipmunk,Rodentia,Sciuridae,75,9.3,captivity,acceptable,671
+03186,Tamiasciurus,hudsonicus,Red squirrel,Rodentia,Sciuridae,200,9.8,captivity,acceptable,671
+03190,Xerospermophilus,mohavensis,Mohave ground squirrel,Rodentia,Sciuridae,150,7.8,captivity,acceptable,671
+03191,Xerospermophilus,tereticaudus,Round-tailed ground squirrel,Rodentia,Sciuridae,163.3,8.9,captivity,acceptable,671
+03192,Xerus,erythropus,Striped ground squirrel,Rodentia,Sciuridae,600,10.3,captivity,acceptable,671
+03193,Xerus,inauris,South African ground squirrel,Rodentia,Sciuridae,588,11.5,captivity,acceptable,671
+03194,Cannomys,badius,Lesser bamboo rat,Rodentia,Spalacidae,650,4.8,captivity,acceptable,671
+03197,Spalax,ehrenbergi,Palestine mole rat,Rodentia,Spalacidae,160,20.2,captivity,acceptable,"Aaron Avivi, pers. comm."
+03199,Thryonomys,swinderianus,Greater cane rat,Rodentia,Thryonomyidae,6600,5.4,captivity,acceptable,671
+03201,Tupaia,belangeri,Northern tree shrew,Scandentia,Tupaiidae,200,11.1,captivity,acceptable,671
+03202,Tupaia,glis,Common tree shrew,Scandentia,Tupaiidae,200,12.4,captivity,acceptable,671
+03203,Tupaia,minor,Pygmy tree shrew,Scandentia,Tupaiidae,58.6,12.2,captivity,acceptable,671
+03204,Tupaia,tana,Large tree shrew,Scandentia,Tupaiidae,197.8,11.6,captivity,acceptable,671
+03205,Urogale,everetti,Mindanao tree shrew,Scandentia,Tupaiidae,350,11.5,captivity,acceptable,671
+03206,Dugong,dugon,Dugong,Sirenia,Dugongidae,360000,73,captivity,acceptable,671
+03207,Trichechus,inunguis,Amazonian manatee,Sirenia,Trichechidae,480000,40,captivity,acceptable,671
+03208,Trichechus,manatus,West Indian manatee,Sirenia,Trichechidae,322000,69,captivity,acceptable,1302
+03210,Solenodon,paradoxus,Hispaniolan solenodon,Soricomorpha,Solenodontidae,1000,12.1,captivity,acceptable,671
+03211,Blarina,brevicauda,Northern short-tailed shrew,Soricomorpha,Soricidae,21.6,2.2,captivity,acceptable,671
+03212,Blarina,hylophaga,Elliot's short-tailed shrew,Soricomorpha,Soricidae,14.5,2.8,captivity,acceptable,434
+03213,Crocidura,flavescens,Greater red musk shrew,Soricomorpha,Soricidae,45,2.2,captivity,acceptable,589
+03214,Crocidura,leucodon,Bicolored shrew,Soricomorpha,Soricidae,11,2.9,captivity,acceptable,671
+03215,Crocidura,russula,White-toothed shrew,Soricomorpha,Soricidae,11.6,4,captivity,acceptable,589
+03216,Crocidura,suaveolens,Lesser shrew,Soricomorpha,Soricidae,7.7,2.8,captivity,acceptable,1083
+03217,Cryptotis,parva,Least shrew,Soricomorpha,Soricidae,4.5,3.5,captivity,acceptable,"Orin Mock, pers. comm."
+03218,Myosorex,varius,Forest shrew,Soricomorpha,Soricidae,17.5,2.1,captivity,acceptable,589
+03220,Neomys,fodiens,Eurasian water shrew,Soricomorpha,Soricidae,15,3.1,captivity,acceptable,589
+03222,Sorex,araneus,Eurasian shrew,Soricomorpha,Soricidae,9,3.2,captivity,acceptable,671
+03224,Sorex,caecutiens,Laxmann's shrew,Soricomorpha,Soricidae,5.4,3,captivity,acceptable,589
+03235,Suncus,murinus,Asian house shrew,Soricomorpha,Soricidae,45.9,3.2,captivity,acceptable,671
+03238,Mogera,wogura,Japanese mole,Soricomorpha,Talpidae,97,3.2,captivity,acceptable,671
+03240,Scalopus,aquaticus,Eastern mole,Soricomorpha,Talpidae,90,6.2,wild,acceptable,1405
+03242,Orycteropus,afer,Aardvark,Tubulidentata,Orycteropodidae,60000,29.8,captivity,acceptable,671
