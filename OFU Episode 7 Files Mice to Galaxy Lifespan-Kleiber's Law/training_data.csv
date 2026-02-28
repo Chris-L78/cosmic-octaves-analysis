@@ -1,0 +1,4 @@
+Object,Mass_kg,Lifespan_years,log10_Mass,log10_Lifespan,Source,Notes
+Cell,1.00e-12,0.038329,"-12.000","-1.416","Typical mammalian cell turnover ~14 days (Sender et al. 2016)","Baseline; see sensitivity analysis for 3-300 day range"
+Human,7.00e+01,80.0,"1.845","1.903","Global average human lifespan (WHO 2023)","Representative adult"
+Sun,1.989e+30,1.00e+10,"30.299","10.000","Main-sequence lifetime (Sackmann et al. 1993 ApJ 418:457)","IAU 2015 nominal mass"

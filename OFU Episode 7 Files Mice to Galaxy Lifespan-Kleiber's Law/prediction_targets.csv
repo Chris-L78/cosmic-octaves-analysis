@@ -1,0 +1,3 @@
+Object,Mass_kg,log10_Mass,Predicted_log10_Lifespan,Predicted_Lifespan_years,Observed_Range_low_years,Observed_Range_high_years,Factor_off,Source
+Milky_Way,1.50e+42,42.176,13.14,1.39e+13,1.00e+13,1.00e+14,1.4,"Mass: McMillan 2011 MNRAS 414:2446 (incl dark matter); Lifespan: Adams & Laughlin 1997 Rev Mod Phys 69:337 (star formation era)"
+Universe,1.00e+53,53.000,16.1,1.26e+16,1.00e+14,1.00e+14,~100,"Mass: Observable universe total; Active lifespan: star formation era ~100 trillion yr; Overshoot by ~2 orders of magnitude"

@@ -1,0 +1,6 @@
+Object,Power_W,Mass_kg,Energy_Density_W_per_kg,Source
+Sun,3.828e+26,1.989e+30,0.000192,"IAU 2015 nominal L_sun and M_sun"
+Human (resting),80,70,1.14,"Typical BMR ~80W at 70 kg (Mifflin-St Jeor)"
+Human (running),1200,70,17.14,"Intense exercise ~1200W"
+Red dwarf (0.1 Msun),3.828e+23,1.989e+29,0.00192,"L ~ 0.001 L_sun"
+Blue giant (60 Msun),2.680e+32,1.193e+32,2.246,"L ~ 700000 L_sun"

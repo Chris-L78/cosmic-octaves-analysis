@@ -1,0 +1,6 @@
+variation,cell_lifespan_days,source,slope,slope_stderr,intercept,r_squared,mw_predicted_log10_years,mw_predicted_trillion_years
+Gut epithelial,3,Gut epithelial cell turnover,0.2855,0.0009,1.3552,1.0,13.4,25.0
+Baseline (14d),14,Typical mammalian cell turnover (Sender et al. 2016),0.2721,0.011,1.6686,0.9984,13.14,13.9
+Skin cell,28,Keratinocyte cycle (~4 weeks),0.266,0.0163,1.8096,0.9963,13.03,10.7
+Red blood cell,120,Erythrocyte lifespan (~120 days),0.2533,0.0274,2.1057,0.9884,12.79,6.2
+Hepatocyte,300,Liver cell turnover (~200-300 days),0.2453,0.0345,2.2921,0.9806,12.64,4.3

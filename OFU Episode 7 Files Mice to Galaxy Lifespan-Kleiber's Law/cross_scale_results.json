@@ -1,0 +1,54 @@
+{
+  "regression": {
+    "slope": 0.2721,
+    "slope_stderr": 0.011,
+    "intercept": 1.6686,
+    "r_squared": 0.9984,
+    "n_points": 3,
+    "degrees_of_freedom": 1,
+    "equation": "log10(T) = 1.6686 + 0.2721 * log10(M)"
+  },
+  "kleiber_comparison": {
+    "kleiber_theoretical": 0.25,
+    "anage_mammals_range": [
+      0.2,
+      0.27
+    ],
+    "cross_scale_slope": 0.2721,
+    "sigma_from_kleiber": 2.0
+  },
+  "galaxy_prediction": {
+    "milky_way_mass_kg": 1.5e+42,
+    "predicted_log10_years": 13.14,
+    "predicted_years": 13900000000000.0,
+    "observed_range_years": [
+      10000000000000.0,
+      100000000000000.0
+    ],
+    "factor_from_lower_bound": 1.4
+  },
+  "universe_prediction": {
+    "mass_kg": 1e+53,
+    "predicted_log10_years": 16.1,
+    "predicted_years": 1.2e+16,
+    "active_lifespan_years": 100000000000000.0,
+    "overshoot_factor": 123
+  },
+  "training_data": {
+    "Cell": {
+      "mass_kg": 1e-12,
+      "lifespan_years": 0.038329911019849415,
+      "source": "Typical mammalian cell turnover ~14 days (Sender et al. 2016)"
+    },
+    "Human": {
+      "mass_kg": 70,
+      "lifespan_years": 80,
+      "source": "Global average human lifespan (WHO 2023)"
+    },
+    "Sun": {
+      "mass_kg": 1.989e+30,
+      "lifespan_years": 10000000000.0,
+      "source": "Main-sequence lifetime (Sackmann et al. 1993, ApJ 418:457)"
+    }
+  }
+}
