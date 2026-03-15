@@ -1,0 +1,132 @@
+{
+  "test_name": "Cosmic Sixth Permutation Test",
+  "date": "2026-03",
+  "seed": 42,
+  "n_trials": 200000,
+  "ladder_values": {
+    "Proton": -15.08,
+    "Atomic Orbital (H)": -10.28,
+    "Ribosome (70S)": -7.96,
+    "Bacterium (E. coli)": -6.0,
+    "C. elegans": -3.3,
+    "Human": -0.046,
+    "City": 3.0,
+    "Earth": 6.8,
+    "Sun": 8.84,
+    "Solar System": 12.65,
+    "Open Cluster": 16.67,
+    "Local Bubble": 18.665,
+    "Milky Way": 20.7,
+    "Virgo Supercluster": 23.84,
+    "Observable Universe": 26.64
+  },
+  "pairs": [
+    [
+      "Bacterium (E. coli)",
+      "Human"
+    ],
+    [
+      "Solar System",
+      "Local Bubble"
+    ],
+    [
+      "Milky Way",
+      "Observable Universe"
+    ],
+    [
+      "Earth",
+      "Solar System"
+    ],
+    [
+      "City",
+      "Sun"
+    ],
+    [
+      "C. elegans",
+      "City"
+    ]
+  ],
+  "target_delta": 6.0,
+  "test_1_tight": {
+    "obs_deviations": [
+      0.04600000000000026,
+      0.014999999999998792,
+      0.05999999999999872,
+      0.14999999999999947,
+      0.16000000000000014,
+      0.2999999999999998
+    ],
+    "obs_strong": 3,
+    "threshold": 0.1,
+    "count_ge": 28,
+    "n_trials": 200000,
+    "p_value": 0.00014,
+    "p_value_add1": 0.00014499927500362497,
+    "sigma": 3.6331335509472495,
+    "distribution": {
+      "0": 167580,
+      "1": 30535,
+      "2": 1857,
+      "3": 28
+    }
+  },
+  "test_2_strong": {
+    "obs_deviations": [
+      0.04600000000000026,
+      0.014999999999998792,
+      0.05999999999999872,
+      0.14999999999999947,
+      0.16000000000000014,
+      0.2999999999999998
+    ],
+    "obs_strong": 5,
+    "threshold": 0.2,
+    "count_ge": 0,
+    "n_trials": 200000,
+    "p_value": 0.0,
+    "p_value_add1": 4.9999750001249995e-06,
+    "sigma": null,
+    "distribution": {
+      "0": 148860,
+      "1": 45689,
+      "2": 5207,
+      "3": 241,
+      "4": 3
+    }
+  },
+  "test_3_scan": {
+    "obs_scan_max": 4,
+    "best_deltas": [
+      [
+        5.899999999999993,
+        4
+      ],
+      [
+        5.999999999999993,
+        3
+      ],
+      [
+        5.799999999999994,
+        2
+      ],
+      [
+        6.0999999999999925,
+        1
+      ],
+      [
+        6.299999999999992,
+        1
+      ]
+    ],
+    "delta_range": [
+      4.0,
+      8.0
+    ],
+    "delta_step": 0.1,
+    "count_ge": 0,
+    "n_trials": 200000,
+    "p_value": 0.0,
+    "p_value_add1": 4.9999750001249995e-06,
+    "sigma": null
+  }
+}
